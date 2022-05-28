@@ -12,7 +12,7 @@ import java.util.Date;
 public abstract class AbstrataPessoa {
 
     private int id;
-    private int cpf;
+    private String cpf;
     private String nome;
     private Date nascimento;
     private String telefone;

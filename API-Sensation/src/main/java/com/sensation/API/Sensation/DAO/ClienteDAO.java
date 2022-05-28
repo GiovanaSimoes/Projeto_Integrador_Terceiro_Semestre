@@ -17,4 +17,8 @@ public interface ClienteDAO {
     List<Cliente> getAll();
 
     Cliente getById(int id);
+
+    Cliente getByCPF(String cpf);
+
+    int validaLogin(String email, String senha);
 }

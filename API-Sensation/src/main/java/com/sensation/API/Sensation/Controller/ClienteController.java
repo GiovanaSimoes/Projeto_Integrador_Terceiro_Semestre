@@ -25,7 +25,7 @@ public class ClienteController {
         return cDAO.getAll();
     }
 
-    @GetMapping("/cliente/{id}")
+    @GetMapping("/cliente/id={id}")
     public Cliente getClienteById(@PathVariable int id) {
         return cDAO.getById(id);
     }
@@ -42,6 +42,16 @@ public class ClienteController {
     @DeleteMapping("/cliente/{id}")
     public String deleteClienteById(@PathVariable int id) {
         return cDAO.delete(id) + " registro deletado!";
+    }
+
+    @GetMapping("/cliente/cpf={cpf}")
+    public Cliente getClienteByCPF(@PathVariable String cpf) {
+        return cDAO.getByCPF(cpf);
+    }
+
+    @RequestMapping("cliente/email={email}&senha={senha}")
+    public int validaLoginCliente (@PathVariable String email, @PathVariable String senha){
+        return cDAO.validaLogin(email,senha);
     }
 
 }
