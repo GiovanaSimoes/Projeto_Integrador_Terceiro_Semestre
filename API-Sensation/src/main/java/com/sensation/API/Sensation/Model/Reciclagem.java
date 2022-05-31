@@ -1,9 +1,9 @@
 package com.sensation.API.Sensation.Model;
 
 public class Reciclagem {
-    
+
     private int idReciclagem;
-    private Cliente idCliente;
+    private final Cliente idCliente;
 
     public Reciclagem(int idReciclagem, Cliente idCliente) {
         this.idReciclagem = idReciclagem;
@@ -21,5 +21,5 @@ public class Reciclagem {
     public Cliente getIdCliente() {
         return idCliente;
     }
-    
+
 }

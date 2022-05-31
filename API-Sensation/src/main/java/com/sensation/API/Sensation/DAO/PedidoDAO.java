@@ -10,11 +10,13 @@ public interface PedidoDAO {
 
     int save(Pedido pedido);
 
-    int update (Pedido pedido, int id);
+    int update(Pedido pedido, int id);
 
-    int delete (int id);
+    int delete(int id);
 
     List<Pedido> getAll();
+
+    List<Pedido> getByIdCliente(int id);
 
     Pedido getById(int id);
 }

@@ -17,7 +17,7 @@ public abstract class AbstrataPessoa {
     private Date nascimento;
     private String telefone;
     private String email;
-    private long cep;
+    private String cep;
     private String cidade;
     private String logradouro;
     private int numero;

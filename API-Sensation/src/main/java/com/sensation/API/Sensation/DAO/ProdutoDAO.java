@@ -9,9 +9,9 @@ public interface ProdutoDAO {
 
     int save(Produto produto);
 
-    int update (Produto produto, int id);
+    int update(Produto produto, int id);
 
-    int delete (int id);
+    int delete(int id);
 
     List<Produto> getAll();
 

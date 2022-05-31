@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class ApiSensationApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(ApiSensationApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(ApiSensationApplication.class, args);
+    }
 
 }

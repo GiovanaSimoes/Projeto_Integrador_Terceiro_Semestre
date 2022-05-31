@@ -1,8 +1,8 @@
 package com.sensation.API.Sensation.Model;
 
 public class ProdutoPedido extends AbstrataProduto {
-    
-    private Pedido idPedido;
+
+    private final Pedido idPedido;
     private float estrelas;
     private String avaliacao;
 

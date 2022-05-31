@@ -2,7 +2,6 @@ package com.sensation.API.Sensation.Controller;
 
 import com.sensation.API.Sensation.DAO.ClienteDAO;
 import com.sensation.API.Sensation.Model.Cliente;
-import com.sensation.API.Sensation.Model.Produto;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
@@ -20,8 +19,7 @@ public class ClienteController {
     }
 
     @GetMapping("/cliente/todos")
-    public List<Cliente> getClientes()
-    {
+    public List<Cliente> getClientes() {
         return cDAO.getAll();
     }
 
@@ -31,14 +29,15 @@ public class ClienteController {
     }
 
     @PostMapping("/cliente")
-    public String saveCliente(@RequestBody Cliente cliente){
-        return cDAO.save(cliente)+" registro adicionado!";
+    public String saveCliente(@RequestBody Cliente cliente) {
+        return cDAO.save(cliente) + " registro adicionado!";
     }
 
     @PutMapping("/cliente/{id}")
-    public String updateCliente(@RequestBody Cliente cliente, @PathVariable int id){
-        return cDAO.update(cliente,id)+" registro atualizado!";
+    public String updateCliente(@RequestBody Cliente cliente, @PathVariable int id) {
+        return cDAO.update(cliente, id) + " registro atualizado!";
     }
+
     @DeleteMapping("/cliente/{id}")
     public String deleteClienteById(@PathVariable int id) {
         return cDAO.delete(id) + " registro deletado!";
@@ -50,8 +49,8 @@ public class ClienteController {
     }
 
     @RequestMapping("cliente/email={email}&senha={senha}")
-    public int validaLoginCliente (@PathVariable String email, @PathVariable String senha){
-        return cDAO.validaLogin(email,senha);
+    public int validaLoginCliente(@PathVariable String email, @PathVariable String senha) {
+        return cDAO.validaLogin(email, senha);
     }
 
 }

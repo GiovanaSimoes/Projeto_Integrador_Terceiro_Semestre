@@ -10,9 +10,9 @@ public interface ClienteDAO {
 
     int save(Cliente cliente);
 
-    int update (Cliente cliente, int id);
+    int update(Cliente cliente, int id);
 
-    int delete (int id);
+    int delete(int id);
 
     List<Cliente> getAll();
 
