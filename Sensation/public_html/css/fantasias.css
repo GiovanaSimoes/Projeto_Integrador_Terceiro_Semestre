@@ -1,0 +1,716 @@
+/* screen - fantasias */
+
+.fantasias {
+  align-items: flex-end;
+  background-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.fantasias .flex-row {
+  align-items: center;
+  display: flex;
+  height: 307px;
+  margin-right: -1.0px;
+  min-width: 1902px;
+}
+
+.fantasias .overlap-group7 {
+  height: 209px;
+  margin-bottom: 33.94px;
+  position: relative;
+  width: 327px;
+}
+
+.fantasias .imagem-1 {
+  border-radius: 13px;
+  cursor: pointer;
+  height: 154px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 327px;
+}
+
+.fantasias .subtrao-4 {
+  height: 54px;
+  left: 37px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 239px;
+}
+
+.fantasias .subtrao-4-1 {
+  height: 70px;
+  left: 40px;
+  object-fit: cover;
+  position: absolute;
+  top: 139px;
+  width: 248px;
+}
+
+.fantasias .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 45px;
+  min-height: 307px;
+  width: 1530px;
+}
+
+.fantasias .retngulo-10 {
+  align-self: flex-end;
+  background-color: var(--purple-pizzazz);
+  height: 44px;
+  margin-right: 1.0px;
+  opacity: 0.5;
+  width: 19px;
+}
+
+.fantasias .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 82px;
+  margin-top: 10px;
+  min-width: 1461px;
+}
+
+.fantasias .overlap-group6 {
+  align-items: flex-end;
+  align-self: flex-end;
+  border-radius: 4px;
+  display: flex;
+  height: 70px;
+  min-width: 736px;
+  padding: 15.0px 10px;
+}
+
+.fantasias .digite-aqui-o-que-procura {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: 2.5px;
+  min-height: 29px;
+  min-width: 231px;
+  white-space: nowrap;
+}
+
+.fantasias .magnifying-glass {
+  height: 39px;
+  margin-left: 433px;
+  object-fit: cover;
+  width: 37px;
+}
+
+.fantasias .linha-16 {
+  height: 71px;
+  margin-left: 491px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.fantasias .grupo-1 {
+  align-items: flex-start;
+  align-self: center;
+  cursor: pointer;
+  display: flex;
+  margin-bottom: 0.32px;
+  margin-left: 30px;
+  min-width: 68px;
+}
+
+.fantasias .overlap-group-1 {
+  height: 60px;
+  position: relative;
+  width: 68px;
+}
+
+.fantasias .subtrao-3 {
+  height: 35px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 68px;
+}
+
+.fantasias .elipse-5 {
+  background-color: var(--purple-pizzazz);
+  border-radius: 21px;
+  height: 42px;
+  left: 13px;
+  position: absolute;
+  top: 0;
+  width: 42px;
+}
+
+.fantasias .linha-5 {
+  height: 71px;
+  margin-left: 38px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.fantasias .addtocart {
+  align-self: center;
+  cursor: pointer;
+  height: 60px;
+  margin-left: 38px;
+  margin-top: 0.56px;
+  object-fit: cover;
+  width: 58px;
+}
+
+.fantasias .flex-row-2 {
+  align-items: center;
+  display: flex;
+  height: 122px;
+  margin-top: 49px;
+  min-width: 1530px;
+}
+
+.fantasias .flex-col-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.63px;
+  min-height: 106px;
+  width: 100px;
+}
+
+.fantasias .no-path-copia-6 {
+  height: 73px;
+  margin-right: 2.0px;
+  object-fit: cover;
+  width: 73px;
+}
+
+.fantasias .fantasias-1 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 4px;
+  min-height: 29px;
+  min-width: 100px;
+  white-space: nowrap;
+}
+
+.fantasias .linha-10 {
+  height: 108px;
+  margin-bottom: 2.38px;
+  margin-left: 13px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.fantasias .flex-col-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 3.86px;
+  margin-left: 26px;
+  min-height: 112px;
+  width: 118px;
+}
+
+.fantasias .no-path-copia-4 {
+  height: 78px;
+  margin-right: 6.58px;
+  object-fit: cover;
+  width: 78px;
+}
+
+.fantasias .vibradores {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 5px;
+  min-height: 29px;
+  min-width: 118px;
+  white-space: nowrap;
+}
+
+.fantasias .linha-11 {
+  height: 108px;
+  margin-bottom: 0.38px;
+  margin-left: 13px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.fantasias .flex-col-3 {
+  align-items: center;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 25px;
+  min-height: 116px;
+  width: 116px;
+}
+
+.fantasias .no-path-copia-8 {
+  height: 83px;
+  margin-left: 5.4px;
+  object-fit: cover;
+  width: 83px;
+}
+
+.fantasias .acessrios {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 5px;
+  min-height: 29px;
+  min-width: 116px;
+  white-space: nowrap;
+}
+
+.fantasias .linha-12 {
+  height: 108px;
+  margin-left: 22px;
+  margin-top: 2.12px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.fantasias .flex-col-4 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.63px;
+  margin-left: 35px;
+  min-height: 110px;
+  width: 83px;
+}
+
+.fantasias .grupo-14 {
+  background-image: url(../img/nopath---copia--11--10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 74px;
+  margin-right: 3.21px;
+  width: 74px;
+}
+
+.fantasias .lingerie {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 7px;
+  min-height: 29px;
+  min-width: 83px;
+  white-space: nowrap;
+}
+
+.fantasias .linha-13 {
+  align-self: flex-end;
+  height: 108px;
+  margin-bottom: 0;
+  margin-left: 25px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.fantasias .flex-col-5 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 25px;
+  margin-top: 8.31px;
+  min-height: 102px;
+  width: 166px;
+}
+
+.fantasias .no-path-copia-25 {
+  height: 71px;
+  margin-left: 29.0px;
+  object-fit: cover;
+  width: 71px;
+}
+
+.fantasias .masturbadores {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 2px;
+  min-height: 29px;
+  min-width: 166px;
+  white-space: nowrap;
+}
+
+.fantasias .linha-14 {
+  align-self: flex-end;
+  height: 108px;
+  margin-left: 16px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.fantasias .flex-col-6 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 4.79px;
+  margin-left: 30px;
+  min-height: 105px;
+  width: 178px;
+}
+
+.fantasias .no-path-copia-7 {
+  height: 77px;
+  margin-right: 19.05px;
+  object-fit: cover;
+  width: 77px;
+}
+
+.fantasias .grupo-15 {
+  display: flex;
+  height: 27px;
+  margin-top: 1px;
+  width: 178px;
+}
+
+.fantasias .sadomasoquista {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -5.5px;
+  margin-right: -2px;
+  margin-top: 3.5px;
+  white-space: nowrap;
+  width: 178px;
+}
+
+.fantasias .linha-15 {
+  height: 108px;
+  margin-left: 19px;
+  margin-top: 2.12px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.fantasias .flex-col-7 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 21px;
+  margin-top: 9.06px;
+  min-height: 101px;
+  width: 130px;
+}
+
+.fantasias .recycling-9 {
+  height: 69px;
+  margin-left: 0.21px;
+  object-fit: cover;
+  width: 69px;
+}
+
+.fantasias .grupo-10 {
+  display: flex;
+  height: 27px;
+  margin-top: 5px;
+  width: 130px;
+}
+
+.fantasias .grupo-12 {
+  display: flex;
+  flex: 1;
+  width: 132px;
+}
+
+.fantasias .recicle-aqui {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -5.5px;
+  margin-right: -2px;
+  margin-top: 3.5px;
+  white-space: nowrap;
+  width: 132px;
+}
+
+.fantasias .caminho-5 {
+  align-self: flex-start;
+  height: 1px;
+  margin-left: 359px;
+  margin-top: 13.32px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.fantasias .grupo-container {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  margin-left: 3.0px;
+  margin-top: 58px;
+  min-width: 1609px;
+}
+
+.fantasias .grupo-24-1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  min-width: 531px;
+}
+
+.fantasias .overlap-group1 {
+  height: 569px;
+  position: relative;
+  width: 531px;
+}
+
+.fantasias .captura-de-tela-2022-05-23-114140 {
+  border-radius: 117px;
+  height: 234px;
+  left: 149px;
+  object-fit: cover;
+  position: absolute;
+  top: 97px;
+  width: 234px;
+}
+
+.fantasias .retngulo-4 {
+  height: 569px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 531px;
+}
+
+.fantasias .coelha-de-body-plusr-15000 {
+  left: 74px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 400px;
+  white-space: nowrap;
+}
+
+.fantasias .grupo-53 {
+  display: flex;
+  height: 563px;
+  margin-left: 71px;
+  width: 1007px;
+}
+
+.fantasias .grupo-54 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  min-width: 1007px;
+}
+
+.fantasias .grupo-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 563px;
+  width: 283px;
+}
+
+.fantasias .grupo-24 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 283px;
+}
+
+.fantasias .overlap-group {
+  height: 257px;
+  position: relative;
+  width: 283px;
+}
+
+.fantasias .rockeirar-1200 {
+  left: 47px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 178px;
+  white-space: nowrap;
+}
+
+.fantasias .retngulo-11 {
+  height: 257px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 283px;
+}
+
+.fantasias .captura-de-tela-2022-05-23-113601 {
+  border-radius: 58px/56.5px;
+  height: 113px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 116px;
+}
+
+.fantasias .grupo-24-2 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 49px;
+  min-width: 283px;
+}
+
+.fantasias .diaba-r-12000 {
+  left: 47px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 178px;
+  white-space: nowrap;
+}
+
+.fantasias .fantasia-maldade-star-pimenta-sexy-1_2 {
+  border-radius: 58px/56.5px;
+  height: 113px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 116px;
+}
+
+.fantasias .flex-col-8 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 79px;
+  margin-top: -1px;
+  min-height: 564px;
+  width: 645px;
+}
+
+.fantasias .grupo-container-2 {
+  height: 258px;
+  position: relative;
+  width: 644px;
+}
+
+.fantasias .grupo-24-3 {
+  align-items: flex-end;
+  display: flex;
+  height: 257px;
+  left: 0;
+  min-width: 543px;
+  position: absolute;
+  top: 1px;
+}
+
+.fantasias .fantasia-ninjar-9000 {
+  left: 46px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 177px;
+  white-space: nowrap;
+}
+
+.fantasias .retngulo-11-1 {
+  height: 257px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 283px;
+}
+
+.fantasias .captura-de-tela-2022-05-23-113635 {
+  border-radius: 58px/56.5px;
+  height: 113px;
+  left: 83px;
+  object-fit: cover;
+  position: absolute;
+  top: 29px;
+  width: 116px;
+}
+
+.fantasias .mulhere-gator-10000 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: 23px;
+  margin-left: 115px;
+  min-height: 56px;
+  min-width: 145px;
+  white-space: nowrap;
+}
+
+.fantasias .grupo-24-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 257px;
+  left: 361px;
+  min-width: 283px;
+  padding: 28px 82px;
+  position: absolute;
+  top: 0;
+}
+
+.fantasias .calcinha-fio-sandy-e {
+  border-radius: 58px/56.5px;
+  height: 113px;
+  object-fit: cover;
+  width: 116px;
+}
+
+.fantasias .grupo-container-3 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 49px;
+  min-width: 645px;
+}
+
+.fantasias .policial-r-10000 {
+  left: 47px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 178px;
+  white-space: nowrap;
+}
+
+.fantasias .captura-de-tela-2022-05-23-113545 {
+  border-radius: 58px/56.5px;
+  height: 113px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 116px;
+}
+
+.fantasias .grupo-24-5 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 79px;
+  min-width: 283px;
+}
+
+.fantasias .mulher-morangor-9000 {
+  left: 47px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 178px;
+  white-space: nowrap;
+}
+
+.fantasias .calcinha-fio-sandy-e-1 {
+  border-radius: 58px/56.5px;
+  height: 113px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 116px;
+}
+
+.fantasias .linha-17 {
+  height: 8px;
+  margin-right: 0;
+  margin-top: 109px;
+  object-fit: cover;
+  width: 1920px;
+}

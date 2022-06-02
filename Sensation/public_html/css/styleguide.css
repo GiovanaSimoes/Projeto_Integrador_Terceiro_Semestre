@@ -1,0 +1,144 @@
+:root { 
+  --black: #000000;
+  --bright-green: #59fe02;
+  --bright-green-2: #59ff02;
+  --dove-gray: #707070;
+  --dove-gray-2: #70707078;
+  --dove-gray-3: #70707048;
+  --dove-gray-4: #70707099;
+  --purple-pizzazz: #ff00bb;
+  --turquoise-blue: #57ffff;
+  --white: #ffffff80;
+  --white-2: #ffffff;
+ 
+  --font-size-l: 30px;
+  --font-size-m: 20px;
+  --font-size-s: 15px;
+  --font-size-xl: 37px;
+  --font-size-xs: 9px;
+  --font-size-xxl: 40px;
+  --font-size-xxxl: 50px;
+ 
+  --font-family-americantypewriter-bold: "AmericanTypewriter-Bold", Helvetica;
+  --font-family-helveticaneue-bold: "HelveticaNeue-Bold", Helvetica;
+  --font-family-helveticaneue-regular: "HelveticaNeue-Regular", Helvetica;
+  --font-family-segoe_ui: "Segoe UI", Helvetica;
+  --font-family-segoeui-regular: "SegoeUI-Regular", Helvetica;
+}
+.segoeui-regular-normal-purple-pizzazz-20px {
+  color: var(--purple-pizzazz);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.segoeui-regular-normal-dove-gray-20px {
+  color: var(--dove-gray);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.segoeui-regular-normal-purple-pizzazz-40px {
+  color: var(--purple-pizzazz);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.segoeui-regular-normal-turquoise-blue-20px {
+  color: var(--turquoise-blue);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.segoeui-regular-normal-dove-gray-37px {
+  color: var(--dove-gray);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.segoeui-regular-normal-purple-pizzazz-15px {
+  color: var(--purple-pizzazz);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.segoeui-regular-normal-purple-pizzazz-30px {
+  color: var(--purple-pizzazz);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.segoeui-regular-normal-purple-pizzazz-37px {
+  color: var(--purple-pizzazz);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.segoeui-normal-dove-gray-30px {
+  color: var(--dove-gray);
+  font-family: var(--font-family-segoe_ui);
+  font-size: var(--font-size-l);
+}
+
+.segoeui-regular-normal-white-30px {
+  color: var(--white-2);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.segoeui-regular-normal-purple-pizzazz-50px {
+  color: var(--purple-pizzazz);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.segoeui-regular-normal-dove-gray-30px {
+  color: var(--dove-gray);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.helveticaneue-bold-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-helveticaneue-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
+
+.border-1px-dove-gray-2 {
+  border: 1px solid var(--dove-gray-2);
+}
+
+.border-1px-white {
+  border: 1px solid var(--white);
+}
+
+.border-1px-black {
+  border: 1px solid var(--black);
+}

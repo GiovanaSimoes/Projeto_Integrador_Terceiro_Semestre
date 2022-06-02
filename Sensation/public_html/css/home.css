@@ -1,0 +1,626 @@
+/* screen - home */
+
+.home {
+  background-color: var(--black);
+  height: 1080px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.home .overlap-group {
+  height: 1080px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.home .overlap-group3 {
+  align-items: flex-end;
+  border-radius: 4px;
+  display: flex;
+  height: 70px;
+  left: 391px;
+  min-width: 736px;
+  padding: 15.0px 10px;
+  position: absolute;
+  top: 66px;
+}
+
+.home .digite-aqui-o-que-procura {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: 2.5px;
+  min-height: 29px;
+  min-width: 231px;
+  white-space: nowrap;
+}
+
+.home .magnifying-glass {
+  height: 39px;
+  margin-left: 433px;
+  object-fit: cover;
+  width: 37px;
+}
+
+.home .overlap-group7 {
+  height: 209px;
+  left: 19px;
+  position: absolute;
+  top: 32px;
+  width: 327px;
+}
+
+.home .imagem-1 {
+  border-radius: 13px;
+  height: 154px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 327px;
+}
+
+.home .subtrao-4 {
+  height: 54px;
+  left: 37px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 239px;
+}
+
+.home .subtrao-4-1 {
+  height: 70px;
+  left: 40px;
+  object-fit: cover;
+  position: absolute;
+  top: 139px;
+  width: 248px;
+}
+
+.home .grupo-1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 60px;
+  left: 1649px;
+  min-width: 68px;
+  position: absolute;
+  top: 65px;
+}
+
+.home .overlap-group-2 {
+  height: 60px;
+  position: relative;
+  width: 68px;
+}
+
+.home .subtrao-3 {
+  height: 35px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 68px;
+}
+
+.home .elipse-5 {
+  background-color: var(--purple-pizzazz);
+  border-radius: 21px;
+  height: 42px;
+  left: 13px;
+  position: absolute;
+  top: 0;
+  width: 42px;
+}
+
+.home .linha-5 {
+  height: 71px;
+  left: 1755px;
+  object-fit: cover;
+  position: absolute;
+  top: 54px;
+  width: 1px;
+}
+
+.home .addtocart {
+  cursor: pointer;
+  height: 60px;
+  left: 1794px;
+  object-fit: cover;
+  position: absolute;
+  top: 65px;
+  width: 58px;
+}
+
+.home .grupo-10 {
+  display: flex;
+  height: 27px;
+  left: 1431px;
+  position: absolute;
+  top: 274px;
+  width: 130px;
+}
+
+.home .grupo-12 {
+  display: flex;
+  flex: 1;
+  width: 132px;
+}
+
+.home .recicle-aqui {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -5.5px;
+  margin-right: -2px;
+  margin-top: 3.5px;
+  white-space: nowrap;
+  width: 132px;
+}
+
+.home .no-path-copia-4 {
+  cursor: pointer;
+  height: 78px;
+  left: 547px;
+  object-fit: cover;
+  position: absolute;
+  top: 188px;
+  width: 78px;
+}
+
+.home .vibradores {
+  left: 531px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 271px;
+  white-space: nowrap;
+}
+
+.home .no-path-copia-6 {
+  cursor: pointer;
+  height: 73px;
+  left: 403px;
+  object-fit: cover;
+  position: absolute;
+  top: 179px;
+  width: 73px;
+}
+
+.home .fantasias {
+  left: 391px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 270px;
+  white-space: nowrap;
+}
+
+.home .no-path-copia-8 {
+  cursor: pointer;
+  height: 83px;
+  left: 707px;
+  object-fit: cover;
+  position: absolute;
+  top: 185px;
+  width: 83px;
+}
+
+.home .acessrios {
+  left: 688px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 273px;
+  white-space: nowrap;
+}
+
+.home .grupo-14 {
+  background-image: url(../img/nopath---copia--11--10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 74px;
+  left: 869px;
+  position: absolute;
+  top: 191px;
+  width: 74px;
+}
+
+.home .lingerie {
+  left: 862px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 272px;
+  white-space: nowrap;
+}
+
+.home .no-path-copia-25 {
+  cursor: pointer;
+  height: 71px;
+  left: 1058px;
+  object-fit: cover;
+  position: absolute;
+  top: 199px;
+  width: 71px;
+}
+
+.home .masturbadores {
+  left: 996px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 272px;
+  white-space: nowrap;
+}
+
+.home .no-path-copia-7 {
+  cursor: pointer;
+  height: 77px;
+  left: 1252px;
+  object-fit: cover;
+  position: absolute;
+  top: 191px;
+  width: 77px;
+}
+
+.home .grupo-15 {
+  display: flex;
+  height: 27px;
+  left: 1211px;
+  position: absolute;
+  top: 269px;
+  width: 178px;
+}
+
+.home .sadomasoquista {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -5.5px;
+  margin-right: -2px;
+  margin-top: 3.5px;
+  white-space: nowrap;
+  width: 178px;
+}
+
+.home .linha-10 {
+  height: 108px;
+  left: 504px;
+  object-fit: cover;
+  position: absolute;
+  top: 191px;
+  width: 1px;
+}
+
+.home .linha-11 {
+  height: 108px;
+  left: 662px;
+  object-fit: cover;
+  position: absolute;
+  top: 192px;
+  width: 1px;
+}
+
+.home .linha-12 {
+  height: 108px;
+  left: 826px;
+  object-fit: cover;
+  position: absolute;
+  top: 193px;
+  width: 1px;
+}
+
+.home .linha-13 {
+  height: 108px;
+  left: 970px;
+  object-fit: cover;
+  position: absolute;
+  top: 199px;
+  width: 1px;
+}
+
+.home .linha-14 {
+  height: 108px;
+  left: 1179px;
+  object-fit: cover;
+  position: absolute;
+  top: 199px;
+  width: 1px;
+}
+
+.home .linha-15 {
+  height: 108px;
+  left: 1408px;
+  object-fit: cover;
+  position: absolute;
+  top: 193px;
+  width: 1px;
+}
+
+.home .linha-16 {
+  height: 71px;
+  left: 1618px;
+  object-fit: cover;
+  position: absolute;
+  top: 54px;
+  width: 1px;
+}
+
+.home .caminho-7 {
+  height: 1px;
+  left: 832px;
+  object-fit: cover;
+  position: absolute;
+  top: 522px;
+  width: 1px;
+}
+
+.home .retngulo-6 {
+  height: 77px;
+  left: 1301px;
+  opacity: 0.5;
+  position: absolute;
+  top: 307px;
+  width: 619px;
+}
+
+.home .entrega-express-sp-receba-no-mesmo-dia {
+  left: 1414px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 336px;
+  white-space: nowrap;
+}
+
+.home .linha-17 {
+  height: 8px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1043px;
+  width: 1920px;
+}
+
+.home .caminho-8 {
+  height: 1080px;
+  left: 1901px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.home .retngulo-10 {
+  background-color: var(--purple-pizzazz);
+  height: 44px;
+  left: 1901px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.home .overlap-group5 {
+  align-items: flex-end;
+  border: 1px solid #70707080;
+  display: flex;
+  height: 77px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 644px;
+  padding: 20.5px 72px;
+  position: absolute;
+  top: 307px;
+}
+
+.home .fretes-grtis-acima {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 29px;
+  min-width: 423px;
+  white-space: nowrap;
+}
+
+.home .overlap-group4 {
+  align-items: flex-end;
+  border: 1px solid #70707080;
+  display: flex;
+  height: 77px;
+  left: 644px;
+  min-width: 656px;
+  padding: 20.5px 119px;
+  position: absolute;
+  top: 307px;
+}
+
+.home .sedex-grtis-sp-acima-de-r250 {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 29px;
+  min-width: 317px;
+  white-space: nowrap;
+}
+
+.home .imagem-2 {
+  height: 117px;
+  left: 759px;
+  object-fit: cover;
+  position: absolute;
+  top: 405px;
+  width: 480px;
+}
+
+.home .caminho-9 {
+  height: 54px;
+  left: 1812px;
+  object-fit: cover;
+  position: absolute;
+  top: 706px;
+  width: 33px;
+}
+
+.home .icon-play {
+  height: 54px;
+  left: 56px;
+  object-fit: cover;
+  position: absolute;
+  top: 733px;
+  width: 33px;
+}
+
+.home .recycling-9 {
+  cursor: pointer;
+  height: 69px;
+  left: 1461px;
+  object-fit: cover;
+  position: absolute;
+  top: 200px;
+  width: 69px;
+}
+
+.home .grupo-51 {
+  align-items: flex-start;
+  display: flex;
+  height: 453px;
+  left: 241px;
+  min-width: 1443px;
+  position: absolute;
+  top: 540px;
+}
+
+.home .grupo-48 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 451px;
+}
+
+.home .overlap-group-1 {
+  height: 453px;
+  position: relative;
+  width: 451px;
+}
+
+.home .grupo-24 {
+  align-items: flex-end;
+  display: flex;
+  height: 453px;
+  left: 0;
+  min-width: 451px;
+  opacity: 0.5;
+  padding: 67px 99px;
+  position: absolute;
+  top: 0;
+}
+
+.home .espartilhjo-em-renda-r-11500 {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 56px;
+  min-width: 226px;
+  white-space: nowrap;
+}
+
+.home .captura-de-tela-2022-05-22-130506 {
+  border-radius: 254px;
+  height: 214px;
+  left: 113px;
+  object-fit: cover;
+  position: absolute;
+  top: 66px;
+  width: 200px;
+}
+
+.home .espartilho-em-renda {
+  border-radius: 254px;
+  height: 214px;
+  left: 113px;
+  object-fit: cover;
+  position: absolute;
+  top: 66px;
+  width: 200px;
+}
+
+.home .grupo {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 45px;
+  min-width: 451px;
+}
+
+.home .grupo-24-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 453px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 451px;
+  opacity: 0.5;
+  padding: 66px 82px;
+  position: absolute;
+  top: 0;
+}
+
+.home .masturbador-lanterna-r-25000 {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 56px;
+  min-width: 254px;
+  white-space: nowrap;
+}
+
+.home .captura-de-tela-2022-05-22-130506-1 {
+  border-radius: 254px;
+  height: 214px;
+  left: 113px;
+  object-fit: cover;
+  position: absolute;
+  top: 66px;
+  width: 200px;
+}
+
+.home .grupo-24-2 {
+  align-items: flex-end;
+  display: flex;
+  height: 453px;
+  left: 0;
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+  width: 451px;
+}
+
+.home .vibrador-estimulador {
+  flex: 1;
+  height: 56px;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: 54px;
+  margin-left: 51px;
+  margin-right: 48px;
+  white-space: nowrap;
+}
+
+.home .vibrador-elton-estim {
+  border-radius: 254px;
+  height: 214px;
+  left: 113px;
+  object-fit: cover;
+  position: absolute;
+  top: 66px;
+  width: 200px;
+}
+
+.home .caminho-5 {
+  height: 1px;
+  left: 1920px;
+  object-fit: cover;
+  position: absolute;
+  top: 199px;
+  width: 1px;
+}

@@ -1,0 +1,611 @@
+/* screen - vibradores */
+
+.vibradores {
+  background-color: var(--black);
+  height: 1080px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.vibradores .overlap-group {
+  height: 1080px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.vibradores .overlap-group6 {
+  align-items: flex-end;
+  border-radius: 4px;
+  display: flex;
+  height: 70px;
+  left: 391px;
+  min-width: 736px;
+  padding: 15.0px 10px;
+  position: absolute;
+  top: 66px;
+}
+
+.vibradores .digite-aqui-o-que-procura {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: 2.5px;
+  min-height: 29px;
+  min-width: 231px;
+  white-space: nowrap;
+}
+
+.vibradores .magnifying-glass {
+  height: 39px;
+  margin-left: 433px;
+  object-fit: cover;
+  width: 37px;
+}
+
+.vibradores .overlap-group8 {
+  height: 209px;
+  left: 19px;
+  position: absolute;
+  top: 32px;
+  width: 327px;
+}
+
+.vibradores .imagem-1 {
+  border-radius: 13px;
+  cursor: pointer;
+  height: 154px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 327px;
+}
+
+.vibradores .subtrao-4 {
+  height: 54px;
+  left: 37px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 239px;
+}
+
+.vibradores .subtrao-4-1 {
+  height: 70px;
+  left: 40px;
+  object-fit: cover;
+  position: absolute;
+  top: 139px;
+  width: 248px;
+}
+
+.vibradores .grupo-1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 60px;
+  left: 1649px;
+  min-width: 68px;
+  position: absolute;
+  top: 65px;
+}
+
+.vibradores .overlap-group-2 {
+  height: 60px;
+  position: relative;
+  width: 68px;
+}
+
+.vibradores .subtrao-3 {
+  height: 35px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 68px;
+}
+
+.vibradores .elipse-5 {
+  background-color: var(--purple-pizzazz);
+  border-radius: 21px;
+  height: 42px;
+  left: 13px;
+  position: absolute;
+  top: 0;
+  width: 42px;
+}
+
+.vibradores .linha-5 {
+  height: 71px;
+  left: 1755px;
+  object-fit: cover;
+  position: absolute;
+  top: 54px;
+  width: 1px;
+}
+
+.vibradores .addtocart {
+  cursor: pointer;
+  height: 60px;
+  left: 1794px;
+  object-fit: cover;
+  position: absolute;
+  top: 65px;
+  width: 58px;
+}
+
+.vibradores .grupo-10 {
+  display: flex;
+  height: 27px;
+  left: 1431px;
+  position: absolute;
+  top: 274px;
+  width: 130px;
+}
+
+.vibradores .grupo-12 {
+  display: flex;
+  flex: 1;
+  width: 132px;
+}
+
+.vibradores .recicle-aqui {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -5.5px;
+  margin-right: -2px;
+  margin-top: 3.5px;
+  white-space: nowrap;
+  width: 132px;
+}
+
+.vibradores .no-path-copia-4 {
+  height: 78px;
+  left: 547px;
+  object-fit: cover;
+  position: absolute;
+  top: 188px;
+  width: 78px;
+}
+
+.vibradores .vibradores-1 {
+  left: 531px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 271px;
+  white-space: nowrap;
+}
+
+.vibradores .no-path-copia-6 {
+  height: 73px;
+  left: 404px;
+  object-fit: cover;
+  position: absolute;
+  top: 193px;
+  width: 73px;
+}
+
+.vibradores .fantasias {
+  left: 391px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 270px;
+  white-space: nowrap;
+}
+
+.vibradores .no-path-copia-8 {
+  height: 83px;
+  left: 707px;
+  object-fit: cover;
+  position: absolute;
+  top: 185px;
+  width: 83px;
+}
+
+.vibradores .acessrios {
+  left: 688px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 273px;
+  white-space: nowrap;
+}
+
+.vibradores .grupo-14 {
+  background-image: url(../img/nopath---copia--11--10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 74px;
+  left: 869px;
+  position: absolute;
+  top: 191px;
+  width: 74px;
+}
+
+.vibradores .lingerie {
+  left: 862px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 272px;
+  white-space: nowrap;
+}
+
+.vibradores .no-path-copia-25 {
+  height: 71px;
+  left: 1058px;
+  object-fit: cover;
+  position: absolute;
+  top: 199px;
+  width: 71px;
+}
+
+.vibradores .masturbadores {
+  left: 996px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 272px;
+  white-space: nowrap;
+}
+
+.vibradores .no-path-copia-7 {
+  height: 77px;
+  left: 1252px;
+  object-fit: cover;
+  position: absolute;
+  top: 191px;
+  width: 77px;
+}
+
+.vibradores .grupo-15 {
+  display: flex;
+  height: 27px;
+  left: 1211px;
+  position: absolute;
+  top: 269px;
+  width: 178px;
+}
+
+.vibradores .sadomasoquista {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -5.5px;
+  margin-right: -2px;
+  margin-top: 3.5px;
+  white-space: nowrap;
+  width: 178px;
+}
+
+.vibradores .linha-10 {
+  height: 108px;
+  left: 504px;
+  object-fit: cover;
+  position: absolute;
+  top: 191px;
+  width: 1px;
+}
+
+.vibradores .linha-11 {
+  height: 108px;
+  left: 662px;
+  object-fit: cover;
+  position: absolute;
+  top: 192px;
+  width: 1px;
+}
+
+.vibradores .linha-12 {
+  height: 108px;
+  left: 826px;
+  object-fit: cover;
+  position: absolute;
+  top: 193px;
+  width: 1px;
+}
+
+.vibradores .linha-13 {
+  height: 108px;
+  left: 970px;
+  object-fit: cover;
+  position: absolute;
+  top: 199px;
+  width: 1px;
+}
+
+.vibradores .linha-14 {
+  height: 108px;
+  left: 1179px;
+  object-fit: cover;
+  position: absolute;
+  top: 199px;
+  width: 1px;
+}
+
+.vibradores .linha-15 {
+  height: 108px;
+  left: 1408px;
+  object-fit: cover;
+  position: absolute;
+  top: 193px;
+  width: 1px;
+}
+
+.vibradores .linha-16 {
+  height: 71px;
+  left: 1618px;
+  object-fit: cover;
+  position: absolute;
+  top: 54px;
+  width: 1px;
+}
+
+.vibradores .linha-17 {
+  height: 8px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1043px;
+  width: 1920px;
+}
+
+.vibradores .caminho-8 {
+  height: 1080px;
+  left: 1901px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.vibradores .retngulo-10 {
+  background-color: var(--purple-pizzazz);
+  height: 44px;
+  left: 1901px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.vibradores .recycling-9 {
+  height: 69px;
+  left: 1461px;
+  object-fit: cover;
+  position: absolute;
+  top: 200px;
+  width: 69px;
+}
+
+.vibradores .grupo-24-2 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 569px;
+  left: 157px;
+  min-width: 531px;
+  position: absolute;
+  top: 365px;
+}
+
+.vibradores .overlap-group1 {
+  height: 569px;
+  position: relative;
+  width: 531px;
+}
+
+.vibradores .vibrador-elton-estim {
+  border-radius: 117px;
+  height: 234px;
+  left: 149px;
+  object-fit: cover;
+  position: absolute;
+  top: 97px;
+  width: 234px;
+}
+
+.vibradores .retngulo-4 {
+  height: 569px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 531px;
+}
+
+.vibradores .vibrador-estimulador {
+  left: 74px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 400px;
+  white-space: nowrap;
+}
+
+.vibradores .grupo-53 {
+  display: flex;
+  height: 563px;
+  left: 759px;
+  position: absolute;
+  top: 365px;
+  width: 1007px;
+}
+
+.vibradores .grupo-54 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  min-width: 1007px;
+}
+
+.vibradores .grupo-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 563px;
+  width: 283px;
+}
+
+.vibradores .grupo-24 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 283px;
+}
+
+.vibradores .overlap-group-1 {
+  height: 257px;
+  position: relative;
+  width: 283px;
+}
+
+.vibradores .massageador-magic-r-50000 {
+  left: 47px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 178px;
+  white-space: nowrap;
+}
+
+.vibradores .retngulo-11 {
+  height: 257px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 283px;
+}
+
+.vibradores .vibrador-massageador {
+  border-radius: 58px/56.5px;
+  height: 113px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 116px;
+}
+
+.vibradores .grupo-24-1 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 49px;
+  min-width: 283px;
+}
+
+.vibradores .vibrador-controle-r8000 {
+  left: 47px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 188px;
+  white-space: nowrap;
+}
+
+.vibradores .vibrador-bullet-dawn {
+  border-radius: 58px/56.5px;
+  height: 113px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 116px;
+}
+
+.vibradores .grupo-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 79px;
+  min-height: 563px;
+  width: 283px;
+}
+
+.vibradores .vibrador-bluetoothr-35000 {
+  left: 47px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 178px;
+  white-space: nowrap;
+}
+
+.vibradores .x12926-4_1 {
+  border-radius: 58px/56.5px;
+  height: 113px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 116px;
+}
+
+.vibradores .ponto-g-r-12000 {
+  left: 47px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 178px;
+  white-space: nowrap;
+}
+
+.vibradores .vibrador-ansel-carin {
+  border-radius: 58px/56.5px;
+  height: 113px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 116px;
+}
+
+.vibradores .sugador-de-clitorisr-8000 {
+  left: 47px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 178px;
+  white-space: nowrap;
+}
+
+.vibradores .x5049-4_2 {
+  border-radius: 58px/56.5px;
+  height: 113px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 116px;
+}
+
+.vibradores .vibrador-8-vibraesr-12000 {
+  left: 42px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 178px;
+  white-space: nowrap;
+}
+
+.vibradores .vibrador-rabbit-sili {
+  border-radius: 58px/56.5px;
+  height: 113px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 116px;
+}
+
+.vibradores .caminho-5 {
+  height: 1px;
+  left: 1920px;
+  object-fit: cover;
+  position: absolute;
+  top: 199px;
+  width: 1px;
+}

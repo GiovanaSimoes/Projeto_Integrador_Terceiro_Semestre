@@ -1,0 +1,808 @@
+/* screen - acessorios-1 */
+
+.acessorios-1 {
+  align-items: flex-end;
+  background-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.acessorios-1 .flex-row {
+  align-items: center;
+  display: flex;
+  height: 307px;
+  margin-right: -1.0px;
+  min-width: 1902px;
+}
+
+.acessorios-1 .overlap-group4 {
+  height: 209px;
+  margin-bottom: 33.94px;
+  position: relative;
+  width: 327px;
+}
+
+.acessorios-1 .imagem-1 {
+  border-radius: 13px;
+  cursor: pointer;
+  height: 154px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 327px;
+}
+
+.acessorios-1 .subtrao-4 {
+  height: 54px;
+  left: 37px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 239px;
+}
+
+.acessorios-1 .subtrao-4-1 {
+  height: 70px;
+  left: 40px;
+  object-fit: cover;
+  position: absolute;
+  top: 139px;
+  width: 248px;
+}
+
+.acessorios-1 .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 45px;
+  min-height: 307px;
+  width: 1530px;
+}
+
+.acessorios-1 .retngulo-10 {
+  align-self: flex-end;
+  background-color: var(--purple-pizzazz);
+  height: 44px;
+  margin-right: 1.0px;
+  opacity: 0.5;
+  width: 19px;
+}
+
+.acessorios-1 .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 82px;
+  margin-top: 10px;
+  min-width: 1461px;
+}
+
+.acessorios-1 .overlap-group5 {
+  align-items: flex-end;
+  align-self: flex-end;
+  border-radius: 4px;
+  display: flex;
+  height: 70px;
+  min-width: 736px;
+  padding: 15.0px 10px;
+}
+
+.acessorios-1 .digite-aqui-o-que-procura {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: 2.5px;
+  min-height: 29px;
+  min-width: 231px;
+  white-space: nowrap;
+}
+
+.acessorios-1 .magnifying-glass {
+  height: 39px;
+  margin-left: 433px;
+  object-fit: cover;
+  width: 37px;
+}
+
+.acessorios-1 .linha-16 {
+  height: 71px;
+  margin-left: 491px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.acessorios-1 .grupo-1 {
+  align-items: flex-start;
+  align-self: center;
+  cursor: pointer;
+  display: flex;
+  margin-bottom: 0.32px;
+  margin-left: 30px;
+  min-width: 68px;
+}
+
+.acessorios-1 .overlap-group {
+  height: 60px;
+  position: relative;
+  width: 68px;
+}
+
+.acessorios-1 .subtrao-3 {
+  height: 35px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 68px;
+}
+
+.acessorios-1 .elipse-5 {
+  background-color: var(--purple-pizzazz);
+  border-radius: 21px;
+  height: 42px;
+  left: 13px;
+  position: absolute;
+  top: 0;
+  width: 42px;
+}
+
+.acessorios-1 .linha-5 {
+  height: 71px;
+  margin-left: 38px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.acessorios-1 .addtocart {
+  align-self: center;
+  height: 60px;
+  margin-left: 38px;
+  margin-top: 0.56px;
+  object-fit: cover;
+  width: 58px;
+}
+
+.acessorios-1 .flex-row-2 {
+  align-items: center;
+  display: flex;
+  height: 122px;
+  margin-top: 49px;
+  min-width: 1530px;
+}
+
+.acessorios-1 .flex-col-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.63px;
+  min-height: 106px;
+  width: 100px;
+}
+
+.acessorios-1 .no-path-copia-6 {
+  height: 73px;
+  margin-right: 2.0px;
+  object-fit: cover;
+  width: 73px;
+}
+
+.acessorios-1 .fantasias {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 4px;
+  min-height: 29px;
+  min-width: 100px;
+  white-space: nowrap;
+}
+
+.acessorios-1 .linha-10 {
+  height: 108px;
+  margin-bottom: 2.38px;
+  margin-left: 13px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.acessorios-1 .flex-col-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 3.86px;
+  margin-left: 26px;
+  min-height: 112px;
+  width: 118px;
+}
+
+.acessorios-1 .no-path-copia-4 {
+  height: 78px;
+  margin-right: 6.58px;
+  object-fit: cover;
+  width: 78px;
+}
+
+.acessorios-1 .vibradores {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 5px;
+  min-height: 29px;
+  min-width: 118px;
+  white-space: nowrap;
+}
+
+.acessorios-1 .linha-11 {
+  height: 108px;
+  margin-bottom: 0.38px;
+  margin-left: 13px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.acessorios-1 .flex-col-3 {
+  align-items: center;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 25px;
+  min-height: 117px;
+  width: 116px;
+}
+
+.acessorios-1 .no-path-copia-8 {
+  height: 83px;
+  margin-left: 5.4px;
+  object-fit: cover;
+  width: 83px;
+}
+
+.acessorios-1 .acessrios {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 5px;
+  min-height: 29px;
+  min-width: 116px;
+  white-space: nowrap;
+}
+
+.acessorios-1 .linha-12 {
+  height: 108px;
+  margin-left: 22px;
+  margin-top: 2.12px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.acessorios-1 .flex-col-4 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.63px;
+  margin-left: 35px;
+  min-height: 110px;
+  width: 83px;
+}
+
+.acessorios-1 .grupo-14 {
+  background-image: url(../img/nopath---copia--11--10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 74px;
+  margin-right: 3.21px;
+  width: 74px;
+}
+
+.acessorios-1 .lingerie {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 7px;
+  min-height: 29px;
+  min-width: 83px;
+  white-space: nowrap;
+}
+
+.acessorios-1 .linha-13 {
+  align-self: flex-end;
+  height: 108px;
+  margin-bottom: 0;
+  margin-left: 25px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.acessorios-1 .flex-col-5 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 25px;
+  margin-top: 8.31px;
+  min-height: 102px;
+  width: 166px;
+}
+
+.acessorios-1 .no-path-copia-25 {
+  height: 71px;
+  margin-left: 29.0px;
+  object-fit: cover;
+  width: 71px;
+}
+
+.acessorios-1 .masturbadores {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 2px;
+  min-height: 29px;
+  min-width: 166px;
+  white-space: nowrap;
+}
+
+.acessorios-1 .linha-14 {
+  align-self: flex-end;
+  height: 108px;
+  margin-left: 16px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.acessorios-1 .flex-col-6 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 4.79px;
+  margin-left: 30px;
+  min-height: 105px;
+  width: 178px;
+}
+
+.acessorios-1 .no-path-copia-7 {
+  height: 77px;
+  margin-right: 19.05px;
+  object-fit: cover;
+  width: 77px;
+}
+
+.acessorios-1 .grupo-15 {
+  display: flex;
+  height: 27px;
+  margin-top: 1px;
+  width: 178px;
+}
+
+.acessorios-1 .sadomasoquista {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -5.5px;
+  margin-right: -2px;
+  margin-top: 3.5px;
+  white-space: nowrap;
+  width: 178px;
+}
+
+.acessorios-1 .linha-15 {
+  height: 108px;
+  margin-left: 19px;
+  margin-top: 2.12px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.acessorios-1 .flex-col-7 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 21px;
+  margin-top: 9.06px;
+  min-height: 101px;
+  width: 130px;
+}
+
+.acessorios-1 .recycling-9 {
+  height: 69px;
+  margin-left: 0.21px;
+  object-fit: cover;
+  width: 69px;
+}
+
+.acessorios-1 .grupo-10 {
+  display: flex;
+  height: 27px;
+  margin-top: 5px;
+  width: 130px;
+}
+
+.acessorios-1 .grupo-12 {
+  display: flex;
+  flex: 1;
+  width: 132px;
+}
+
+.acessorios-1 .recicle-aqui {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -5.5px;
+  margin-right: -2px;
+  margin-top: 3.5px;
+  white-space: nowrap;
+  width: 132px;
+}
+
+.acessorios-1 .caminho-5 {
+  align-self: flex-start;
+  height: 1px;
+  margin-left: 359px;
+  margin-top: 13.32px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.acessorios-1 .flex-row-3 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  margin-left: 89.79px;
+  margin-top: 57px;
+  min-width: 1696px;
+}
+
+.acessorios-1 .flex-row-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 570px;
+  min-width: 755px;
+}
+
+.acessorios-1 .overlap-group1 {
+  align-self: flex-end;
+  height: 569px;
+  position: relative;
+  width: 531px;
+}
+
+.acessorios-1 .anel-peniano-ethel-d {
+  border-radius: 117px;
+  height: 234px;
+  left: 149px;
+  object-fit: cover;
+  position: absolute;
+  top: 97px;
+  width: 234px;
+}
+
+.acessorios-1 .retngulo-4 {
+  height: 569px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 531px;
+}
+
+.acessorios-1 .anel-peniano-pretty-love-12000 {
+  left: 74px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 400px;
+  white-space: nowrap;
+}
+
+.acessorios-1 .grupo-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 39px;
+  min-height: 562px;
+  width: 185px;
+}
+
+.acessorios-1 .grupo-56-1 {
+  display: flex;
+  height: 164px;
+  width: 185px;
+}
+
+.acessorios-1 .captura-de-tela-2022-05-23-222414 {
+  border-radius: 66.03px/62.87px;
+  flex: 1;
+  margin-bottom: 19.5px;
+  margin-left: 24.1px;
+  margin-right: 26.7px;
+  margin-top: 16.5px;
+  object-fit: cover;
+  width: 134.24px;
+}
+
+.acessorios-1 .grupo-56 {
+  display: flex;
+  height: 164px;
+  margin-top: 35px;
+  width: 185px;
+}
+
+.acessorios-1 .captura-de-tela-2022-05-23-222353 {
+  border-radius: 66.03px/62.87px;
+  flex: 1;
+  margin-bottom: 19.5px;
+  margin-left: 24.1px;
+  margin-right: 26.7px;
+  margin-top: 16.5px;
+  object-fit: cover;
+  width: 134.24px;
+}
+
+.acessorios-1 .anel-peniano-ethel-d-1 {
+  border-radius: 66.03px/62.87px;
+  flex: 1;
+  margin-bottom: 19.5px;
+  margin-left: 24.1px;
+  margin-right: 26.7px;
+  margin-top: 16.5px;
+  object-fit: cover;
+  width: 134.24px;
+}
+
+.acessorios-1 .flex-col-8 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 182px;
+  min-height: 556px;
+  width: 759px;
+}
+
+.acessorios-1 .overlap-group6 {
+  align-self: flex-end;
+  height: 256px;
+  position: relative;
+  width: 753px;
+}
+
+.acessorios-1 .icon-star {
+  height: 39px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 53px;
+  width: 42px;
+}
+
+.acessorios-1 .icon-star-1 {
+  height: 39px;
+  left: 43px;
+  object-fit: cover;
+  position: absolute;
+  top: 53px;
+  width: 42px;
+}
+
+.acessorios-1 .icon-star-2 {
+  height: 39px;
+  left: 86px;
+  object-fit: cover;
+  position: absolute;
+  top: 53px;
+  width: 42px;
+}
+
+.acessorios-1 .address {
+  left: 251px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.acessorios-1 .linha-23 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 240px;
+  width: 581px;
+}
+
+.acessorios-1 .o-anel-peniano-em-si {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 134px;
+  white-space: nowrap;
+}
+
+.acessorios-1 .anel-peniano-pretty-love {
+  left: 3px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.acessorios-1 .repetio-de-grade-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 39px;
+  justify-content: flex-end;
+  left: 86px;
+  min-width: 125px;
+  position: absolute;
+  top: 53px;
+}
+
+.acessorios-1 .repetio-de-grade-1-item {
+  background-image: url(../img/android-star-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 39px;
+  width: 42px;
+}
+
+.acessorios-1 .price {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 6.0px;
+  margin-top: 14px;
+  min-height: 42px;
+  white-space: nowrap;
+}
+
+.acessorios-1 .overlap-group-container {
+  align-items: center;
+  display: flex;
+  margin-left: 6.0px;
+  margin-top: 16px;
+  min-width: 412px;
+}
+
+.acessorios-1 .overlap-group3 {
+  height: 73px;
+  position: relative;
+  width: 128px;
+}
+
+.acessorios-1 .number {
+  left: 52px;
+  letter-spacing: 0;
+  line-height: 37px;
+  position: absolute;
+  top: 18px;
+  white-space: nowrap;
+}
+
+.acessorios-1 .retngulo-15 {
+  height: 73px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 128px;
+}
+
+.acessorios-1 .linha-26 {
+  height: 1px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 40px;
+  width: 15px;
+}
+
+.acessorios-1 .linha-27 {
+  height: 1px;
+  left: 94px;
+  object-fit: cover;
+  position: absolute;
+  top: 40px;
+  width: 15px;
+}
+
+.acessorios-1 .linha-28 {
+  height: 19px;
+  left: 100px;
+  object-fit: cover;
+  position: absolute;
+  top: 31px;
+  width: 1px;
+}
+
+.acessorios-1 .overlap-group7 {
+  align-items: flex-end;
+  background-color: var(--dove-gray-3);
+  border-radius: 13px;
+  display: flex;
+  height: 74px;
+  justify-content: flex-end;
+  margin-left: 28px;
+  min-width: 256px;
+  padding: 5.5px 40.5px;
+}
+
+.acessorios-1 .comprar {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 37px;
+  min-height: 51px;
+  min-width: 174px;
+  white-space: nowrap;
+}
+
+.acessorios-1 .flex-row-5 {
+  align-items: center;
+  display: flex;
+  height: 121px;
+  margin-top: 33px;
+  min-width: 390px;
+}
+
+.acessorios-1 .flex-col-9 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 121px;
+  width: 304px;
+}
+
+.acessorios-1 .consulte-o-prazo-de-entrega {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 1.0px;
+  min-height: 29px;
+  white-space: nowrap;
+}
+
+.acessorios-1 .overlap-group8 {
+  align-items: flex-end;
+  display: flex;
+  height: 54px;
+  margin-top: 10px;
+  min-width: 304px;
+  padding: 7.5px 21.0px;
+}
+
+.acessorios-1 .digite-aqui-seu-cep {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 29px;
+  min-width: 193px;
+  white-space: nowrap;
+}
+
+.acessorios-1 .linha-25 {
+  height: 1px;
+  margin-left: 2.0px;
+  margin-top: 26px;
+  object-fit: cover;
+  width: 160px;
+}
+
+.acessorios-1 .overlap-group2 {
+  align-items: flex-end;
+  background-color: var(--dove-gray-3);
+  border-radius: 13px;
+  display: flex;
+  height: 57px;
+  justify-content: flex-end;
+  margin-left: 12px;
+  margin-top: 10.0px;
+  min-width: 73px;
+  padding: 8.0px 19.5px;
+}
+
+.acessorios-1 .ok {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 29px;
+  min-width: 29px;
+  white-space: nowrap;
+}
+
+.acessorios-1 .linha-17 {
+  height: 8px;
+  margin-right: 0;
+  margin-top: 108px;
+  object-fit: cover;
+  width: 1920px;
+}

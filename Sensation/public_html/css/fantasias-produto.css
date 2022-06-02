@@ -1,0 +1,782 @@
+/* screen - fantasias-produto */
+
+.fantasias-produto {
+  align-items: flex-end;
+  background-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.fantasias-produto .flex-row {
+  align-items: center;
+  display: flex;
+  height: 307px;
+  margin-right: -1.0px;
+  min-width: 1902px;
+}
+
+.fantasias-produto .overlap-group2 {
+  height: 209px;
+  margin-bottom: 33.94px;
+  position: relative;
+  width: 327px;
+}
+
+.fantasias-produto .imagem-1 {
+  border-radius: 13px;
+  cursor: pointer;
+  height: 154px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 327px;
+}
+
+.fantasias-produto .subtrao-4 {
+  height: 54px;
+  left: 37px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 239px;
+}
+
+.fantasias-produto .subtrao-4-1 {
+  height: 70px;
+  left: 40px;
+  object-fit: cover;
+  position: absolute;
+  top: 139px;
+  width: 248px;
+}
+
+.fantasias-produto .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 45px;
+  min-height: 307px;
+  width: 1530px;
+}
+
+.fantasias-produto .retngulo-10 {
+  align-self: flex-end;
+  background-color: var(--purple-pizzazz);
+  height: 44px;
+  margin-right: 1.0px;
+  opacity: 0.5;
+  width: 19px;
+}
+
+.fantasias-produto .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 82px;
+  margin-top: 10px;
+  min-width: 1461px;
+}
+
+.fantasias-produto .overlap-group3 {
+  align-items: flex-end;
+  align-self: flex-end;
+  border-radius: 4px;
+  display: flex;
+  height: 70px;
+  min-width: 736px;
+  padding: 15.0px 10px;
+}
+
+.fantasias-produto .digite-aqui-o-que-procura {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: 2.5px;
+  min-height: 29px;
+  min-width: 231px;
+  white-space: nowrap;
+}
+
+.fantasias-produto .magnifying-glass {
+  height: 39px;
+  margin-left: 433px;
+  object-fit: cover;
+  width: 37px;
+}
+
+.fantasias-produto .linha-16 {
+  height: 71px;
+  margin-left: 491px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.fantasias-produto .grupo-1 {
+  align-items: flex-start;
+  align-self: center;
+  cursor: pointer;
+  display: flex;
+  margin-bottom: 0.32px;
+  margin-left: 30px;
+  min-width: 68px;
+}
+
+.fantasias-produto .overlap-group {
+  height: 60px;
+  position: relative;
+  width: 68px;
+}
+
+.fantasias-produto .subtrao-3 {
+  height: 35px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 68px;
+}
+
+.fantasias-produto .elipse-5 {
+  background-color: var(--purple-pizzazz);
+  border-radius: 21px;
+  height: 42px;
+  left: 13px;
+  position: absolute;
+  top: 0;
+  width: 42px;
+}
+
+.fantasias-produto .linha-5 {
+  height: 71px;
+  margin-left: 38px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.fantasias-produto .addtocart {
+  align-self: center;
+  cursor: pointer;
+  height: 60px;
+  margin-left: 38px;
+  margin-top: 0.56px;
+  object-fit: cover;
+  width: 58px;
+}
+
+.fantasias-produto .flex-row-2 {
+  align-items: center;
+  display: flex;
+  height: 122px;
+  margin-top: 49px;
+  min-width: 1530px;
+}
+
+.fantasias-produto .flex-col-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.63px;
+  min-height: 106px;
+  width: 100px;
+}
+
+.fantasias-produto .no-path-copia-6 {
+  height: 73px;
+  margin-right: 2.0px;
+  object-fit: cover;
+  width: 73px;
+}
+
+.fantasias-produto .fantasias {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 4px;
+  min-height: 29px;
+  min-width: 100px;
+  white-space: nowrap;
+}
+
+.fantasias-produto .linha-10 {
+  height: 108px;
+  margin-bottom: 2.38px;
+  margin-left: 13px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.fantasias-produto .flex-col-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 3.86px;
+  margin-left: 26px;
+  min-height: 112px;
+  width: 118px;
+}
+
+.fantasias-produto .no-path-copia-4 {
+  height: 78px;
+  margin-right: 6.58px;
+  object-fit: cover;
+  width: 78px;
+}
+
+.fantasias-produto .vibradores {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 5px;
+  min-height: 29px;
+  min-width: 118px;
+  white-space: nowrap;
+}
+
+.fantasias-produto .linha-11 {
+  height: 108px;
+  margin-bottom: 0.38px;
+  margin-left: 13px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.fantasias-produto .flex-col-3 {
+  align-items: center;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 25px;
+  min-height: 116px;
+  width: 116px;
+}
+
+.fantasias-produto .no-path-copia-8 {
+  height: 83px;
+  margin-left: 5.4px;
+  object-fit: cover;
+  width: 83px;
+}
+
+.fantasias-produto .acessrios {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 5px;
+  min-height: 29px;
+  min-width: 116px;
+  white-space: nowrap;
+}
+
+.fantasias-produto .linha-12 {
+  height: 108px;
+  margin-left: 22px;
+  margin-top: 2.12px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.fantasias-produto .flex-col-4 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.63px;
+  margin-left: 35px;
+  min-height: 110px;
+  width: 83px;
+}
+
+.fantasias-produto .grupo-14 {
+  background-image: url(../img/nopath---copia--11--10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 74px;
+  margin-right: 3.21px;
+  width: 74px;
+}
+
+.fantasias-produto .lingerie {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 7px;
+  min-height: 29px;
+  min-width: 83px;
+  white-space: nowrap;
+}
+
+.fantasias-produto .linha-13 {
+  align-self: flex-end;
+  height: 108px;
+  margin-bottom: 0;
+  margin-left: 25px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.fantasias-produto .flex-col-5 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 25px;
+  margin-top: 8.31px;
+  min-height: 102px;
+  width: 166px;
+}
+
+.fantasias-produto .no-path-copia-25 {
+  height: 71px;
+  margin-left: 29.0px;
+  object-fit: cover;
+  width: 71px;
+}
+
+.fantasias-produto .masturbadores {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 2px;
+  min-height: 29px;
+  min-width: 166px;
+  white-space: nowrap;
+}
+
+.fantasias-produto .linha-14 {
+  align-self: flex-end;
+  height: 108px;
+  margin-left: 16px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.fantasias-produto .flex-col-6 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 4.79px;
+  margin-left: 30px;
+  min-height: 105px;
+  width: 178px;
+}
+
+.fantasias-produto .no-path-copia-7 {
+  height: 77px;
+  margin-right: 19.05px;
+  object-fit: cover;
+  width: 77px;
+}
+
+.fantasias-produto .grupo-15 {
+  display: flex;
+  height: 27px;
+  margin-top: 1px;
+  width: 178px;
+}
+
+.fantasias-produto .sadomasoquista {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -5.5px;
+  margin-right: -2px;
+  margin-top: 3.5px;
+  white-space: nowrap;
+  width: 178px;
+}
+
+.fantasias-produto .linha-15 {
+  height: 108px;
+  margin-left: 19px;
+  margin-top: 2.12px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.fantasias-produto .flex-col-7 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 21px;
+  margin-top: 9.06px;
+  min-height: 101px;
+  width: 130px;
+}
+
+.fantasias-produto .recycling-9 {
+  height: 69px;
+  margin-left: 0.21px;
+  object-fit: cover;
+  width: 69px;
+}
+
+.fantasias-produto .grupo-10 {
+  display: flex;
+  height: 27px;
+  margin-top: 5px;
+  width: 130px;
+}
+
+.fantasias-produto .grupo-12 {
+  display: flex;
+  flex: 1;
+  width: 132px;
+}
+
+.fantasias-produto .recicle-aqui {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -5.5px;
+  margin-right: -2px;
+  margin-top: 3.5px;
+  white-space: nowrap;
+  width: 132px;
+}
+
+.fantasias-produto .caminho-5 {
+  align-self: flex-start;
+  height: 1px;
+  margin-left: 359px;
+  margin-top: 13.32px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.fantasias-produto .flex-row-3 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  margin-left: 86.0px;
+  margin-top: 57px;
+  min-width: 1692px;
+}
+
+.fantasias-produto .flex-row-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 570px;
+  min-width: 755px;
+}
+
+.fantasias-produto .overlap-group1 {
+  align-self: flex-end;
+  height: 569px;
+  position: relative;
+  width: 531px;
+}
+
+.fantasias-produto .captura-de-tela-2022-05-23-114140 {
+  border-radius: 117px;
+  height: 234px;
+  left: 149px;
+  object-fit: cover;
+  position: absolute;
+  top: 97px;
+  width: 234px;
+}
+
+.fantasias-produto .retngulo-4 {
+  height: 569px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 531px;
+}
+
+.fantasias-produto .coelha-de-body-plusr-15000 {
+  left: 74px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 400px;
+  white-space: nowrap;
+}
+
+.fantasias-produto .grupo-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 39px;
+  min-height: 562px;
+  width: 185px;
+}
+
+.fantasias-produto .grupo-56-1 {
+  display: flex;
+  height: 164px;
+  width: 185px;
+}
+
+.fantasias-produto .captura-de-tela-2022-05-23-114 {
+  border-radius: 66.03px/62.87px;
+  flex: 1;
+  margin-bottom: 19.5px;
+  margin-left: 24.1px;
+  margin-right: 26.7px;
+  margin-top: 16.5px;
+  object-fit: cover;
+  width: 134.24px;
+}
+
+.fantasias-produto .grupo-56 {
+  display: flex;
+  height: 164px;
+  margin-top: 35px;
+  width: 185px;
+}
+
+.fantasias-produto .flex-col-8 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 173px;
+  margin-top: 1.5px;
+  min-height: 562px;
+  width: 764px;
+}
+
+.fantasias-produto .coelha-de-body-plus {
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-left: 6px;
+  min-height: 69px;
+  white-space: nowrap;
+}
+
+.fantasias-produto .flex-row-5 {
+  align-items: flex-start;
+  display: flex;
+  height: 44px;
+  margin-left: 6.0px;
+  margin-top: 16px;
+  min-width: 349px;
+}
+
+.fantasias-produto .icon-star {
+  height: 39px;
+  margin-top: 0;
+  object-fit: cover;
+  width: 42px;
+}
+
+.fantasias-produto .icon-star-1 {
+  height: 39px;
+  margin-left: 1px;
+  margin-top: 0;
+  object-fit: cover;
+  width: 42px;
+}
+
+.fantasias-produto .icon-star-container {
+  height: 39px;
+  margin-left: 1px;
+  margin-top: 0.01px;
+  position: relative;
+  width: 84px;
+}
+
+.fantasias-produto .icon-star-2 {
+  height: 39px;
+  left: 42px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 42px;
+}
+
+.fantasias-produto .icon-star-3 {
+  height: 39px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 42px;
+}
+
+.fantasias-produto .icon-star-4 {
+  height: 39px;
+  margin-left: 1px;
+  object-fit: cover;
+  width: 42px;
+}
+
+.fantasias-produto .address {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 38px;
+  min-height: 29px;
+  min-width: 98px;
+  white-space: nowrap;
+}
+
+.fantasias-produto .flex-col-9 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 32px;
+  min-height: 400px;
+  width: 764px;
+}
+
+.fantasias-produto .agora-seus-amor-vai {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 30px;
+  min-height: 82px;
+  min-width: 758px;
+  white-space: nowrap;
+}
+
+.fantasias-produto .linha-23 {
+  height: 1px;
+  margin-left: 6px;
+  margin-top: 30px;
+  object-fit: cover;
+  width: 581px;
+}
+
+.fantasias-produto .price {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 6px;
+  margin-top: 28px;
+  min-height: 42px;
+  white-space: nowrap;
+}
+
+.fantasias-produto .overlap-group-container {
+  align-items: center;
+  display: flex;
+  margin-left: 6px;
+  margin-top: 16px;
+  min-width: 412px;
+}
+
+.fantasias-produto .overlap-group4 {
+  height: 73px;
+  position: relative;
+  width: 128px;
+}
+
+.fantasias-produto .number {
+  left: 52px;
+  letter-spacing: 0;
+  line-height: 37px;
+  position: absolute;
+  top: 18px;
+  white-space: nowrap;
+}
+
+.fantasias-produto .retngulo-15 {
+  height: 73px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 128px;
+}
+
+.fantasias-produto .linha-26 {
+  height: 1px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 40px;
+  width: 15px;
+}
+
+.fantasias-produto .linha-27 {
+  height: 1px;
+  left: 94px;
+  object-fit: cover;
+  position: absolute;
+  top: 40px;
+  width: 15px;
+}
+
+.fantasias-produto .linha-28 {
+  height: 19px;
+  left: 100px;
+  object-fit: cover;
+  position: absolute;
+  top: 31px;
+  width: 1px;
+}
+
+.fantasias-produto .overlap-group5 {
+  align-items: flex-end;
+  background-color: var(--dove-gray-3);
+  border-radius: 13px;
+  display: flex;
+  height: 74px;
+  justify-content: flex-end;
+  margin-left: 28px;
+  min-width: 256px;
+  padding: 5.5px 40.5px;
+}
+
+.fantasias-produto .comprar {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 37px;
+  min-height: 51px;
+  min-width: 174px;
+  white-space: nowrap;
+}
+
+.fantasias-produto .consulte-o-prazo-de-entrega {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 1px;
+  margin-top: 33px;
+  min-height: 29px;
+  white-space: nowrap;
+}
+
+.fantasias-produto .overlap-group-container-1 {
+  align-items: flex-end;
+  display: flex;
+  margin-top: 8px;
+  min-width: 390px;
+}
+
+.fantasias-produto .overlap-group6 {
+  align-items: flex-end;
+  display: flex;
+  height: 54px;
+  margin-bottom: 0.5px;
+  min-width: 304px;
+  padding: 7.5px 21px;
+}
+
+.fantasias-produto .digite-aqui-seu-cep {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 29px;
+  min-width: 193px;
+  white-space: nowrap;
+}
+
+.fantasias-produto .overlap-group7 {
+  align-items: flex-end;
+  background-color: var(--dove-gray-3);
+  border-radius: 13px;
+  display: flex;
+  height: 57px;
+  justify-content: flex-end;
+  margin-left: 12px;
+  min-width: 73px;
+  padding: 8.0px 19.5px;
+}
+
+.fantasias-produto .ok {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 29px;
+  min-width: 29px;
+  white-space: nowrap;
+}
+
+.fantasias-produto .linha-17 {
+  height: 8px;
+  margin-right: 0;
+  margin-top: 109px;
+  object-fit: cover;
+  width: 1920px;
+}

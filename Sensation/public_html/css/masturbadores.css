@@ -1,0 +1,655 @@
+/* screen - masturbadores */
+
+.masturbadores {
+  background-color: var(--black);
+  height: 1080px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.masturbadores .overlap-group {
+  height: 1080px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.masturbadores .overlap-group8 {
+  align-items: flex-end;
+  border-radius: 4px;
+  display: flex;
+  height: 70px;
+  left: 391px;
+  min-width: 736px;
+  padding: 15.0px 10px;
+  position: absolute;
+  top: 66px;
+}
+
+.masturbadores .digite-aqui-o-que-procura {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: 2.5px;
+  min-height: 29px;
+  min-width: 231px;
+  white-space: nowrap;
+}
+
+.masturbadores .magnifying-glass {
+  height: 39px;
+  margin-left: 433px;
+  object-fit: cover;
+  width: 37px;
+}
+
+.masturbadores .overlap-group7 {
+  height: 209px;
+  left: 19px;
+  position: absolute;
+  top: 32px;
+  width: 327px;
+}
+
+.masturbadores .imagem-1 {
+  border-radius: 13px;
+  cursor: pointer;
+  height: 154px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 327px;
+}
+
+.masturbadores .subtrao-4 {
+  height: 54px;
+  left: 37px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 239px;
+}
+
+.masturbadores .subtrao-4-1 {
+  height: 70px;
+  left: 40px;
+  object-fit: cover;
+  position: absolute;
+  top: 139px;
+  width: 248px;
+}
+
+.masturbadores .grupo-1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 60px;
+  left: 1649px;
+  min-width: 68px;
+  position: absolute;
+  top: 65px;
+}
+
+.masturbadores .overlap-group-2 {
+  height: 60px;
+  position: relative;
+  width: 68px;
+}
+
+.masturbadores .subtrao-3 {
+  height: 35px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 68px;
+}
+
+.masturbadores .elipse-5 {
+  background-color: var(--purple-pizzazz);
+  border-radius: 21px;
+  height: 42px;
+  left: 13px;
+  position: absolute;
+  top: 0;
+  width: 42px;
+}
+
+.masturbadores .linha-5 {
+  height: 71px;
+  left: 1755px;
+  object-fit: cover;
+  position: absolute;
+  top: 54px;
+  width: 1px;
+}
+
+.masturbadores .addtocart {
+  cursor: pointer;
+  height: 60px;
+  left: 1794px;
+  object-fit: cover;
+  position: absolute;
+  top: 65px;
+  width: 58px;
+}
+
+.masturbadores .grupo-10 {
+  display: flex;
+  height: 27px;
+  left: 1431px;
+  position: absolute;
+  top: 274px;
+  width: 130px;
+}
+
+.masturbadores .grupo-12 {
+  display: flex;
+  flex: 1;
+  width: 132px;
+}
+
+.masturbadores .recicle-aqui {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -5.5px;
+  margin-right: -2px;
+  margin-top: 3.5px;
+  white-space: nowrap;
+  width: 132px;
+}
+
+.masturbadores .no-path-copia-4 {
+  height: 78px;
+  left: 547px;
+  object-fit: cover;
+  position: absolute;
+  top: 188px;
+  width: 78px;
+}
+
+.masturbadores .vibradores {
+  left: 531px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 271px;
+  white-space: nowrap;
+}
+
+.masturbadores .no-path-copia-6 {
+  height: 73px;
+  left: 404px;
+  object-fit: cover;
+  position: absolute;
+  top: 193px;
+  width: 73px;
+}
+
+.masturbadores .fantasias {
+  left: 391px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 270px;
+  white-space: nowrap;
+}
+
+.masturbadores .no-path-copia-8 {
+  height: 83px;
+  left: 707px;
+  object-fit: cover;
+  position: absolute;
+  top: 185px;
+  width: 83px;
+}
+
+.masturbadores .acessrios {
+  left: 688px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 273px;
+  white-space: nowrap;
+}
+
+.masturbadores .grupo-14 {
+  background-image: url(../img/nopath---copia--11--10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 74px;
+  left: 869px;
+  position: absolute;
+  top: 191px;
+  width: 74px;
+}
+
+.masturbadores .lingerie {
+  left: 862px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 272px;
+  white-space: nowrap;
+}
+
+.masturbadores .no-path-copia-25 {
+  height: 71px;
+  left: 1058px;
+  object-fit: cover;
+  position: absolute;
+  top: 199px;
+  width: 71px;
+}
+
+.masturbadores .masturbadores-1 {
+  left: 996px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 272px;
+  white-space: nowrap;
+}
+
+.masturbadores .no-path-copia-7 {
+  height: 77px;
+  left: 1252px;
+  object-fit: cover;
+  position: absolute;
+  top: 191px;
+  width: 77px;
+}
+
+.masturbadores .grupo-15 {
+  display: flex;
+  height: 27px;
+  left: 1211px;
+  position: absolute;
+  top: 269px;
+  width: 178px;
+}
+
+.masturbadores .sadomasoquista {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -5.5px;
+  margin-right: -2px;
+  margin-top: 3.5px;
+  white-space: nowrap;
+  width: 178px;
+}
+
+.masturbadores .linha-10 {
+  height: 108px;
+  left: 504px;
+  object-fit: cover;
+  position: absolute;
+  top: 191px;
+  width: 1px;
+}
+
+.masturbadores .linha-11 {
+  height: 108px;
+  left: 662px;
+  object-fit: cover;
+  position: absolute;
+  top: 192px;
+  width: 1px;
+}
+
+.masturbadores .linha-12 {
+  height: 108px;
+  left: 826px;
+  object-fit: cover;
+  position: absolute;
+  top: 193px;
+  width: 1px;
+}
+
+.masturbadores .linha-13 {
+  height: 108px;
+  left: 970px;
+  object-fit: cover;
+  position: absolute;
+  top: 199px;
+  width: 1px;
+}
+
+.masturbadores .linha-14 {
+  height: 108px;
+  left: 1179px;
+  object-fit: cover;
+  position: absolute;
+  top: 199px;
+  width: 1px;
+}
+
+.masturbadores .linha-15 {
+  height: 108px;
+  left: 1408px;
+  object-fit: cover;
+  position: absolute;
+  top: 193px;
+  width: 1px;
+}
+
+.masturbadores .linha-16 {
+  height: 71px;
+  left: 1618px;
+  object-fit: cover;
+  position: absolute;
+  top: 54px;
+  width: 1px;
+}
+
+.masturbadores .linha-17 {
+  height: 8px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1043px;
+  width: 1920px;
+}
+
+.masturbadores .caminho-8 {
+  height: 1080px;
+  left: 1901px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.masturbadores .retngulo-10 {
+  background-color: var(--purple-pizzazz);
+  height: 44px;
+  left: 1901px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.masturbadores .recycling-9 {
+  height: 69px;
+  left: 1461px;
+  object-fit: cover;
+  position: absolute;
+  top: 200px;
+  width: 69px;
+}
+
+.masturbadores .grupo-24 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 569px;
+  left: 157px;
+  min-width: 531px;
+  position: absolute;
+  top: 365px;
+}
+
+.masturbadores .overlap-group1 {
+  height: 569px;
+  position: relative;
+  width: 531px;
+}
+
+.masturbadores .egg-twister_1_3 {
+  border-radius: 117px;
+  height: 234px;
+  left: 149px;
+  object-fit: cover;
+  position: absolute;
+  top: 97px;
+  width: 234px;
+}
+
+.masturbadores .retngulo-4 {
+  height: 569px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 531px;
+}
+
+.masturbadores .egg-twisterr-8000 {
+  left: 74px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 400px;
+  white-space: nowrap;
+}
+
+.masturbadores .grupo-53 {
+  display: flex;
+  height: 563px;
+  left: 759px;
+  position: absolute;
+  top: 365px;
+  width: 1007px;
+}
+
+.masturbadores .grupo-54 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  min-width: 1007px;
+}
+
+.masturbadores .grupo-container {
+  height: 563px;
+  position: relative;
+  width: 1007px;
+}
+
+.masturbadores .grupo-24-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 520px;
+  left: 0;
+  min-width: 987px;
+  position: absolute;
+  top: 0;
+}
+
+.masturbadores .overlap-group-1 {
+  height: 257px;
+  position: relative;
+  width: 283px;
+}
+
+.masturbadores .masturbador-vaginalr-10000 {
+  left: 26px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 181px;
+  white-space: nowrap;
+}
+
+.masturbadores .retngulo-11-1 {
+  height: 257px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 283px;
+}
+
+.masturbadores .masturbador-vagina-c {
+  border-radius: 58px/56.5px;
+  height: 113px;
+  left: 83px;
+  object-fit: cover;
+  position: absolute;
+  top: 29px;
+  width: 116px;
+}
+
+.masturbadores .masturbador-vaginalr-10000-1 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -9px;
+  margin-left: 473px;
+  min-height: 56px;
+  min-width: 231px;
+  white-space: nowrap;
+}
+
+.masturbadores .grupo-24-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 257px;
+  left: 362px;
+  min-width: 283px;
+  position: absolute;
+  top: 0;
+}
+
+.masturbadores .masturbador-realisticor-50000 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 182px;
+  white-space: nowrap;
+}
+
+.masturbadores .retngulo-11 {
+  height: 257px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 283px;
+}
+
+.masturbadores .ma011-01-1000x1000_2 {
+  border-radius: 58px/56.5px;
+  height: 113px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 116px;
+}
+
+.masturbadores .grupo-24-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 257px;
+  left: 724px;
+  min-width: 283px;
+  position: absolute;
+  top: 0;
+}
+
+.masturbadores .masturbador-pimentar-25000 {
+  left: 27px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 182px;
+  white-space: nowrap;
+}
+
+.masturbadores .masturbador-halter-r {
+  border-radius: 58px/56.5px;
+  height: 113px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 116px;
+}
+
+.masturbadores .grupo-24-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 257px;
+  left: 0;
+  min-width: 283px;
+  position: absolute;
+  top: 306px;
+}
+
+.masturbadores .masturbador-lanternar-30000 {
+  left: 19px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 176px;
+  white-space: nowrap;
+}
+
+.masturbadores .masturbador-lanterna {
+  border-radius: 58px/56.5px;
+  height: 113px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 116px;
+}
+
+.masturbadores .grupo-24-5 {
+  align-items: flex-start;
+  display: flex;
+  height: 257px;
+  left: 362px;
+  min-width: 283px;
+  position: absolute;
+  top: 306px;
+}
+
+.masturbadores .lanterna-recarregavelr-50000 {
+  left: 31px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 178px;
+  white-space: nowrap;
+}
+
+.masturbadores .masturbador-lanterna-1 {
+  border-radius: 58px/56.5px;
+  height: 113px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 116px;
+}
+
+.masturbadores .grupo-24-6 {
+  align-items: flex-start;
+  display: flex;
+  height: 257px;
+  left: 723px;
+  min-width: 283px;
+  padding: 28px 82px;
+  position: absolute;
+  top: 305px;
+}
+
+.masturbadores .masturbador-vagina-c-1 {
+  border-radius: 58px/56.5px;
+  height: 113px;
+  object-fit: cover;
+  width: 116px;
+}
+
+.masturbadores .caminho-5 {
+  height: 1px;
+  left: 1920px;
+  object-fit: cover;
+  position: absolute;
+  top: 199px;
+  width: 1px;
+}

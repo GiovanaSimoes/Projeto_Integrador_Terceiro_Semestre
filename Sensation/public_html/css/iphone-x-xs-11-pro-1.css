@@ -1,0 +1,141 @@
+/* screen - iphone-x-xs-11-pro-1 */
+
+.iphone-x-xs-11-pro-1 {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  height: 812px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.iphone-x-xs-11-pro-1 .overlap-group2 {
+  align-items: flex-start;
+  background-image: url(../img/academia-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  margin-left: -366px;
+  margin-top: -64.92px;
+  min-height: 987px;
+  padding: 315.9px 407.8px;
+  width: 1170px;
+}
+
+.iphone-x-xs-11-pro-1 .overlap-group1 {
+  height: 147px;
+  position: relative;
+  width: 279px;
+}
+
+.iphone-x-xs-11-pro-1 .title {
+  color: var(--white-2);
+  font-family: var(--font-family-americantypewriter-bold);
+  font-size: 93px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 93px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.iphone-x-xs-11-pro-1 .forma {
+  color: var(--bright-green-2);
+  font-family: var(--font-family-helveticaneue-regular);
+  font-size: 53px;
+  font-weight: 400;
+  left: 86px;
+  letter-spacing: 0;
+  line-height: 53px;
+  position: absolute;
+  top: 86px;
+  white-space: nowrap;
+}
+
+.iphone-x-xs-11-pro-1 .grupo-1 {
+  align-items: flex-start;
+  align-self: center;
+  cursor: pointer;
+  display: flex;
+  margin-right: 63.32px;
+  margin-top: 16px;
+  min-width: 129px;
+}
+
+.iphone-x-xs-11-pro-1 .retngulo-container {
+  height: 63px;
+  position: relative;
+  width: 129px;
+}
+
+.iphone-x-xs-11-pro-1 .retngulo-1 {
+  background-color: var(--bright-green);
+  height: 11px;
+  left: 5px;
+  position: absolute;
+  top: 27px;
+  width: 121px;
+}
+
+.iphone-x-xs-11-pro-1 .retngulo-2 {
+  background-color: var(--bright-green);
+  border-radius: 90px;
+  height: 29px;
+  left: 0;
+  position: absolute;
+  top: 18px;
+  width: 11px;
+}
+
+.iphone-x-xs-11-pro-1 .retngulo-3 {
+  background-color: var(--bright-green);
+  border-radius: 90px;
+  height: 47px;
+  left: 11px;
+  position: absolute;
+  top: 8px;
+  width: 14px;
+}
+
+.iphone-x-xs-11-pro-1 .retngulo-4 {
+  background-color: var(--bright-green);
+  border-radius: 90px;
+  height: 62px;
+  left: 25px;
+  position: absolute;
+  top: 0;
+  width: 13px;
+}
+
+.iphone-x-xs-11-pro-1 .retngulo-5 {
+  background-color: var(--bright-green);
+  border-radius: 90px;
+  height: 29px;
+  left: 118px;
+  position: absolute;
+  top: 19px;
+  width: 11px;
+}
+
+.iphone-x-xs-11-pro-1 .retngulo-6 {
+  background-color: var(--bright-green);
+  border-radius: 90px;
+  height: 47px;
+  left: 104px;
+  position: absolute;
+  top: 9px;
+  width: 14px;
+}
+
+.iphone-x-xs-11-pro-1 .retngulo-7 {
+  background-color: var(--bright-green);
+  border-radius: 90px;
+  height: 62px;
+  left: 91px;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}

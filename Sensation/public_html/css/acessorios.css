@@ -1,0 +1,676 @@
+/* screen - acessorios */
+
+.acessorios {
+  align-items: flex-end;
+  background-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.acessorios .flex-row {
+  align-items: center;
+  display: flex;
+  height: 307px;
+  margin-right: -1.0px;
+  min-width: 1902px;
+}
+
+.acessorios .overlap-group7 {
+  height: 209px;
+  margin-bottom: 33.94px;
+  position: relative;
+  width: 327px;
+}
+
+.acessorios .imagem-1 {
+  border-radius: 13px;
+  cursor: pointer;
+  height: 154px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 327px;
+}
+
+.acessorios .subtrao-4 {
+  height: 54px;
+  left: 37px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 239px;
+}
+
+.acessorios .subtrao-4-1 {
+  height: 70px;
+  left: 40px;
+  object-fit: cover;
+  position: absolute;
+  top: 139px;
+  width: 248px;
+}
+
+.acessorios .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 45px;
+  min-height: 307px;
+  width: 1530px;
+}
+
+.acessorios .retngulo-10 {
+  align-self: flex-end;
+  background-color: var(--purple-pizzazz);
+  height: 44px;
+  margin-right: 1.0px;
+  opacity: 0.5;
+  width: 19px;
+}
+
+.acessorios .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 82px;
+  margin-top: 10px;
+  min-width: 1461px;
+}
+
+.acessorios .overlap-group6 {
+  align-items: flex-end;
+  align-self: flex-end;
+  border-radius: 4px;
+  display: flex;
+  height: 70px;
+  min-width: 736px;
+  padding: 15.0px 10px;
+}
+
+.acessorios .digite-aqui-o-que-procura {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: 2.5px;
+  min-height: 29px;
+  min-width: 231px;
+  white-space: nowrap;
+}
+
+.acessorios .magnifying-glass {
+  height: 39px;
+  margin-left: 433px;
+  object-fit: cover;
+  width: 37px;
+}
+
+.acessorios .linha-16 {
+  height: 71px;
+  margin-left: 491px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.acessorios .grupo-1 {
+  align-items: flex-start;
+  align-self: center;
+  cursor: pointer;
+  display: flex;
+  margin-bottom: 0.32px;
+  margin-left: 30px;
+  min-width: 68px;
+}
+
+.acessorios .overlap-group-1 {
+  height: 60px;
+  position: relative;
+  width: 68px;
+}
+
+.acessorios .subtrao-3 {
+  height: 35px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 68px;
+}
+
+.acessorios .elipse-5 {
+  background-color: var(--purple-pizzazz);
+  border-radius: 21px;
+  height: 42px;
+  left: 13px;
+  position: absolute;
+  top: 0;
+  width: 42px;
+}
+
+.acessorios .linha-5 {
+  height: 71px;
+  margin-left: 38px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.acessorios .addtocart {
+  align-self: center;
+  height: 60px;
+  margin-left: 38px;
+  margin-top: 0.56px;
+  object-fit: cover;
+  width: 58px;
+}
+
+.acessorios .flex-row-2 {
+  align-items: center;
+  display: flex;
+  height: 122px;
+  margin-top: 49px;
+  min-width: 1530px;
+}
+
+.acessorios .flex-col-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.63px;
+  min-height: 106px;
+  width: 100px;
+}
+
+.acessorios .no-path-copia-6 {
+  height: 73px;
+  margin-right: 2.0px;
+  object-fit: cover;
+  width: 73px;
+}
+
+.acessorios .fantasias {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 4px;
+  min-height: 29px;
+  min-width: 100px;
+  white-space: nowrap;
+}
+
+.acessorios .linha-10 {
+  height: 108px;
+  margin-bottom: 2.38px;
+  margin-left: 13px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.acessorios .flex-col-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 3.86px;
+  margin-left: 26px;
+  min-height: 112px;
+  width: 118px;
+}
+
+.acessorios .no-path-copia-4 {
+  height: 78px;
+  margin-right: 6.58px;
+  object-fit: cover;
+  width: 78px;
+}
+
+.acessorios .vibradores {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 5px;
+  min-height: 29px;
+  min-width: 118px;
+  white-space: nowrap;
+}
+
+.acessorios .linha-11 {
+  height: 108px;
+  margin-bottom: 0.38px;
+  margin-left: 13px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.acessorios .flex-col-3 {
+  align-items: center;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 25px;
+  min-height: 117px;
+  width: 116px;
+}
+
+.acessorios .no-path-copia-8 {
+  height: 83px;
+  margin-left: 5.4px;
+  object-fit: cover;
+  width: 83px;
+}
+
+.acessorios .acessrios {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 5px;
+  min-height: 29px;
+  min-width: 116px;
+  white-space: nowrap;
+}
+
+.acessorios .linha-12 {
+  height: 108px;
+  margin-left: 22px;
+  margin-top: 2.12px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.acessorios .flex-col-4 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.63px;
+  margin-left: 35px;
+  min-height: 110px;
+  width: 83px;
+}
+
+.acessorios .grupo-14 {
+  background-image: url(../img/nopath---copia--11--10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 74px;
+  margin-right: 3.21px;
+  width: 74px;
+}
+
+.acessorios .lingerie {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 7px;
+  min-height: 29px;
+  min-width: 83px;
+  white-space: nowrap;
+}
+
+.acessorios .linha-13 {
+  align-self: flex-end;
+  height: 108px;
+  margin-bottom: 0;
+  margin-left: 25px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.acessorios .flex-col-5 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 25px;
+  margin-top: 8.31px;
+  min-height: 102px;
+  width: 166px;
+}
+
+.acessorios .no-path-copia-25 {
+  height: 71px;
+  margin-left: 29.0px;
+  object-fit: cover;
+  width: 71px;
+}
+
+.acessorios .masturbadores {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 2px;
+  min-height: 29px;
+  min-width: 166px;
+  white-space: nowrap;
+}
+
+.acessorios .linha-14 {
+  align-self: flex-end;
+  height: 108px;
+  margin-left: 16px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.acessorios .flex-col-6 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 4.79px;
+  margin-left: 30px;
+  min-height: 105px;
+  width: 178px;
+}
+
+.acessorios .no-path-copia-7 {
+  height: 77px;
+  margin-right: 19.05px;
+  object-fit: cover;
+  width: 77px;
+}
+
+.acessorios .grupo-15 {
+  display: flex;
+  height: 27px;
+  margin-top: 1px;
+  width: 178px;
+}
+
+.acessorios .sadomasoquista {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -5.5px;
+  margin-right: -2px;
+  margin-top: 3.5px;
+  white-space: nowrap;
+  width: 178px;
+}
+
+.acessorios .linha-15 {
+  height: 108px;
+  margin-left: 19px;
+  margin-top: 2.12px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.acessorios .flex-col-7 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 21px;
+  margin-top: 9.06px;
+  min-height: 101px;
+  width: 130px;
+}
+
+.acessorios .recycling-9 {
+  height: 69px;
+  margin-left: 0.21px;
+  object-fit: cover;
+  width: 69px;
+}
+
+.acessorios .grupo-10 {
+  display: flex;
+  height: 27px;
+  margin-top: 5px;
+  width: 130px;
+}
+
+.acessorios .grupo-12 {
+  display: flex;
+  flex: 1;
+  width: 132px;
+}
+
+.acessorios .recicle-aqui {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -5.5px;
+  margin-right: -2px;
+  margin-top: 3.5px;
+  white-space: nowrap;
+  width: 132px;
+}
+
+.acessorios .caminho-5 {
+  align-self: flex-start;
+  height: 1px;
+  margin-left: 359px;
+  margin-top: 13.32px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.acessorios .grupo-container-1 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  margin-left: 3.0px;
+  margin-top: 58px;
+  min-width: 1609px;
+}
+
+.acessorios .grupo-24-2 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  min-width: 531px;
+}
+
+.acessorios .overlap-group1 {
+  height: 569px;
+  position: relative;
+  width: 531px;
+}
+
+.acessorios .anel-peniano-esther {
+  border-radius: 117px;
+  height: 234px;
+  left: 149px;
+  object-fit: cover;
+  position: absolute;
+  top: 97px;
+  width: 234px;
+}
+
+.acessorios .retngulo-4 {
+  height: 569px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 531px;
+}
+
+.acessorios .anel-peniano-pretty-love-12000 {
+  left: 74px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 400px;
+  white-space: nowrap;
+}
+
+.acessorios .grupo-53 {
+  display: flex;
+  height: 563px;
+  margin-left: 71px;
+  width: 1007px;
+}
+
+.acessorios .grupo-54 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  min-width: 1007px;
+}
+
+.acessorios .grupo-container-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 563px;
+  width: 283px;
+}
+
+.acessorios .grupo-24 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 283px;
+}
+
+.acessorios .overlap-group {
+  height: 257px;
+  position: relative;
+  width: 283px;
+}
+
+.acessorios .nome-do-produtor-350000 {
+  left: 47px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 178px;
+  white-space: nowrap;
+}
+
+.acessorios .retngulo-11 {
+  height: 257px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 283px;
+}
+
+.acessorios .nome-do-produtor-350000-1 {
+  left: 47px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 178px;
+  white-space: nowrap;
+}
+
+.acessorios .anel-estimulador-mono-hot-flowers-1_2 {
+  border-radius: 58px/56.5px;
+  height: 113px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 116px;
+}
+
+.acessorios .grupo-24-1 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 49px;
+  min-width: 283px;
+}
+
+.acessorios .anel-peniano-mengr-8000 {
+  left: 47px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 178px;
+  white-space: nowrap;
+}
+
+.acessorios .anel-peniano-trap-co {
+  border-radius: 58px/56.5px;
+  height: 113px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 116px;
+}
+
+.acessorios .grupo-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 79px;
+  min-height: 563px;
+  width: 283px;
+}
+
+.acessorios .anel-peniano-rabbitr-11000 {
+  left: 47px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 178px;
+  white-space: nowrap;
+}
+
+.acessorios .anel-peniano-eudora {
+  border-radius: 58px/56.5px;
+  height: 113px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 116px;
+}
+
+.acessorios .anel-com-vibradorr-5000 {
+  left: 47px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 178px;
+  white-space: nowrap;
+}
+
+.acessorios .anel-com-vibro-e-per {
+  border-radius: 58px/56.5px;
+  height: 113px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 116px;
+}
+
+.acessorios .anel-com-vibrador-vipr-2000 {
+  left: 25px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 178px;
+  white-space: nowrap;
+}
+
+.acessorios .anel-peniano-coelho {
+  border-radius: 58px/56.5px;
+  height: 113px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 116px;
+}
+
+.acessorios .anel-vibe-ring-r-3000 {
+  left: 47px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 178px;
+  white-space: nowrap;
+}
+
+.acessorios .captura-de-tela-2022-05-23-225221 {
+  border-radius: 58px/56.5px;
+  height: 113px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 116px;
+}
+
+.acessorios .linha-17 {
+  height: 8px;
+  margin-right: 0;
+  margin-top: 109px;
+  object-fit: cover;
+  width: 1920px;
+}

@@ -1,0 +1,419 @@
+/* screen - fantasias-produto-24 */
+
+.fantasias-produto-24 {
+  background-color: var(--black);
+  height: 1080px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.fantasias-produto-24 .overlap-group {
+  height: 1080px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.fantasias-produto-24 .overlap-group3 {
+  height: 327px;
+  left: 429px;
+  position: absolute;
+  top: 482px;
+  width: 1050px;
+}
+
+.fantasias-produto-24 .subtrao-4 {
+  height: 107px;
+  left: 678px;
+  object-fit: cover;
+  position: absolute;
+  top: 220px;
+  width: 372px;
+}
+
+.fantasias-produto-24 .caminho-12 {
+  cursor: pointer;
+  height: 327px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1003px;
+}
+
+.fantasias-produto-24 .prontinho-tudo-cert {
+  left: 88px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 114px;
+  white-space: nowrap;
+}
+
+.fantasias-produto-24 .overlap-group2 {
+  align-items: flex-end;
+  border-radius: 4px;
+  display: flex;
+  height: 70px;
+  left: 391px;
+  min-width: 736px;
+  padding: 15.0px 10px;
+  position: absolute;
+  top: 66px;
+}
+
+.fantasias-produto-24 .digite-aqui-o-que-procura {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: 2.5px;
+  min-height: 29px;
+  min-width: 231px;
+  white-space: nowrap;
+}
+
+.fantasias-produto-24 .magnifying-glass {
+  height: 39px;
+  margin-left: 433px;
+  object-fit: cover;
+  width: 37px;
+}
+
+.fantasias-produto-24 .overlap-group1 {
+  height: 209px;
+  left: 19px;
+  position: absolute;
+  top: 32px;
+  width: 327px;
+}
+
+.fantasias-produto-24 .imagem-1 {
+  border-radius: 13px;
+  cursor: pointer;
+  height: 154px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 327px;
+}
+
+.fantasias-produto-24 .subtrao-4-1 {
+  height: 54px;
+  left: 37px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 239px;
+}
+
+.fantasias-produto-24 .subtrao-4-2 {
+  height: 70px;
+  left: 40px;
+  object-fit: cover;
+  position: absolute;
+  top: 139px;
+  width: 248px;
+}
+
+.fantasias-produto-24 .overlap-group-1 {
+  height: 60px;
+  left: 1649px;
+  position: absolute;
+  top: 65px;
+  width: 68px;
+}
+
+.fantasias-produto-24 .subtrao-3 {
+  height: 35px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 68px;
+}
+
+.fantasias-produto-24 .elipse-5 {
+  background-color: var(--purple-pizzazz);
+  border-radius: 21px;
+  height: 42px;
+  left: 13px;
+  position: absolute;
+  top: 0;
+  width: 42px;
+}
+
+.fantasias-produto-24 .linha-5 {
+  height: 71px;
+  left: 1755px;
+  object-fit: cover;
+  position: absolute;
+  top: 54px;
+  width: 1px;
+}
+
+.fantasias-produto-24 .addtocart {
+  height: 60px;
+  left: 1794px;
+  object-fit: cover;
+  position: absolute;
+  top: 65px;
+  width: 58px;
+}
+
+.fantasias-produto-24 .grupo-10 {
+  display: flex;
+  height: 27px;
+  left: 1431px;
+  position: absolute;
+  top: 274px;
+  width: 130px;
+}
+
+.fantasias-produto-24 .grupo-12 {
+  display: flex;
+  flex: 1;
+  width: 132px;
+}
+
+.fantasias-produto-24 .recicle-aqui {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -5.5px;
+  margin-right: -2px;
+  margin-top: 3.5px;
+  white-space: nowrap;
+  width: 132px;
+}
+
+.fantasias-produto-24 .no-path-copia-4 {
+  height: 78px;
+  left: 547px;
+  object-fit: cover;
+  position: absolute;
+  top: 188px;
+  width: 78px;
+}
+
+.fantasias-produto-24 .vibradores {
+  left: 531px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 271px;
+  white-space: nowrap;
+}
+
+.fantasias-produto-24 .no-path-copia-6 {
+  height: 73px;
+  left: 404px;
+  object-fit: cover;
+  position: absolute;
+  top: 193px;
+  width: 73px;
+}
+
+.fantasias-produto-24 .fantasias {
+  left: 391px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 270px;
+  white-space: nowrap;
+}
+
+.fantasias-produto-24 .no-path-copia-8 {
+  height: 83px;
+  left: 707px;
+  object-fit: cover;
+  position: absolute;
+  top: 185px;
+  width: 83px;
+}
+
+.fantasias-produto-24 .acessrios {
+  left: 688px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 273px;
+  white-space: nowrap;
+}
+
+.fantasias-produto-24 .grupo-14 {
+  background-image: url(../img/nopath---copia--11--10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 74px;
+  left: 869px;
+  position: absolute;
+  top: 191px;
+  width: 74px;
+}
+
+.fantasias-produto-24 .lingerie {
+  left: 862px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 272px;
+  white-space: nowrap;
+}
+
+.fantasias-produto-24 .no-path-copia-25 {
+  height: 71px;
+  left: 1058px;
+  object-fit: cover;
+  position: absolute;
+  top: 199px;
+  width: 71px;
+}
+
+.fantasias-produto-24 .masturbadores {
+  left: 996px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 272px;
+  white-space: nowrap;
+}
+
+.fantasias-produto-24 .no-path-copia-7 {
+  height: 77px;
+  left: 1252px;
+  object-fit: cover;
+  position: absolute;
+  top: 191px;
+  width: 77px;
+}
+
+.fantasias-produto-24 .grupo-15 {
+  display: flex;
+  height: 27px;
+  left: 1211px;
+  position: absolute;
+  top: 269px;
+  width: 178px;
+}
+
+.fantasias-produto-24 .sadomasoquista {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -5.5px;
+  margin-right: -2px;
+  margin-top: 3.5px;
+  white-space: nowrap;
+  width: 178px;
+}
+
+.fantasias-produto-24 .linha-10 {
+  height: 108px;
+  left: 504px;
+  object-fit: cover;
+  position: absolute;
+  top: 191px;
+  width: 1px;
+}
+
+.fantasias-produto-24 .linha-11 {
+  height: 108px;
+  left: 662px;
+  object-fit: cover;
+  position: absolute;
+  top: 192px;
+  width: 1px;
+}
+
+.fantasias-produto-24 .linha-12 {
+  height: 108px;
+  left: 826px;
+  object-fit: cover;
+  position: absolute;
+  top: 193px;
+  width: 1px;
+}
+
+.fantasias-produto-24 .linha-13 {
+  height: 108px;
+  left: 970px;
+  object-fit: cover;
+  position: absolute;
+  top: 199px;
+  width: 1px;
+}
+
+.fantasias-produto-24 .linha-14 {
+  height: 108px;
+  left: 1179px;
+  object-fit: cover;
+  position: absolute;
+  top: 199px;
+  width: 1px;
+}
+
+.fantasias-produto-24 .linha-15 {
+  height: 108px;
+  left: 1408px;
+  object-fit: cover;
+  position: absolute;
+  top: 193px;
+  width: 1px;
+}
+
+.fantasias-produto-24 .linha-16 {
+  height: 71px;
+  left: 1618px;
+  object-fit: cover;
+  position: absolute;
+  top: 54px;
+  width: 1px;
+}
+
+.fantasias-produto-24 .linha-17 {
+  height: 8px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1043px;
+  width: 1920px;
+}
+
+.fantasias-produto-24 .caminho-8 {
+  height: 1080px;
+  left: 1901px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.fantasias-produto-24 .retngulo-10 {
+  background-color: var(--purple-pizzazz);
+  height: 44px;
+  left: 1901px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.fantasias-produto-24 .recycling-9 {
+  height: 69px;
+  left: 1461px;
+  object-fit: cover;
+  position: absolute;
+  top: 200px;
+  width: 69px;
+}
+
+.fantasias-produto-24 .caminho-5 {
+  height: 1px;
+  left: 1920px;
+  object-fit: cover;
+  position: absolute;
+  top: 199px;
+  width: 1px;
+}
