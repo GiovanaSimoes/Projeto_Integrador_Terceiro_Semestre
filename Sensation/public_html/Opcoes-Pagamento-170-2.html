@@ -123,18 +123,17 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
     <script>
         var arr = {
-            "valorPedido": 20.0,
+            "valorPedido": "200.0",
             "horaPedido": "2022-05-31T02:54:35.000+00:00",
-            "idCliente": 1,
-            "idProduto": 1,
-            "quantidadeProduto": 2
+            "idCliente": "1",
+            "idProduto": "1",
+            "quantidadeProduto": "2 "
         };
         $(".finalizarcompra").click(
 
             $.ajax({
-                method: "POST",
-                url: 'http://localhost:8080/pedido/todos',
-                type: 'GET',
+                url: 'http://localhost:8080/pedido',
+                type: 'POST',
                 data: JSON.stringify(arr),
                 contentType: 'application/json; charset=utf-8',
                 dataType: 'json',
@@ -144,11 +143,11 @@
                 }
             })
             .done(function(msg) {
-                $("#resultado").html(msg);
+                $("deu certo").html(msg);
             })
-            .fail(function(jqXHR, textStatus, msg) {
-                alert(msg);
-            })
+            //.fail(function(jqXHR, textStatus, msg) {
+             //   alert(msg);
+            //})
 
         )
     </script>
